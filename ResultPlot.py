@@ -60,21 +60,21 @@ def main():
     trials = range(1,11,1)
     folder = 'result/'
     prefix = 'opt_best_score trial '
-    suffix = ' dim 10'
+    suffix = ' dim 2'
     trials_agg(trials,folder,prefix,suffix)
 
     ### combine unif_best_score results from different trials
     trials = range(1,11,1)
     folder = 'result/'
     prefix = 'unif_best_score trial '
-    suffix = ' dim 10'
+    suffix = ' dim 2'
     trials_agg(trials,folder,prefix,suffix)
 
     ### plot the learning rate
     samplesize = np.arange(2,6,0.5)
-    opt_filename = 'result/opt_best_score trial  dim 10.csv'
-    unif_filename = 'result/unif_best_score trial  dim 10.csv'
-    image_filename = 'image/learningrate dim 10.eps'
+    opt_filename = 'result/opt_best_score trial  dim 2.csv'
+    unif_filename = 'result/unif_best_score trial  dim 2.csv'
+    image_filename = 'image/learningrate dim 2.eps'
     rate_plot(samplesize,opt_filename,unif_filename,image_filename)
 
     ### plot sample points

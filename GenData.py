@@ -4,7 +4,7 @@ import datagen
 from sklearn.model_selection import train_test_split
 ### set up data parameters
 def main():
-    data_para = {'dim':2,'gap':0.2,'label_prob':0.9,'samplesize':10**2,'testsize':0.2}
+    data_para = {'dim':2,'gap':0.2,'label_prob':0.9,'samplesize':10**6,'testsize':0.2}
     dim = data_para['dim']
     gap = data_para['gap']
     label_prob = data_para['label_prob']
