@@ -48,7 +48,7 @@ def rate_plot(samplesize,opt_filename,unif_filename,image_filename):
     fig = plt.figure()
     plt.errorbar(samplesize,unif_err_rate,unif_std,fmt='g:x',fillstyle='none',label='unif')
     plt.errorbar(samplesize,opt_err_rate,opt_std,fmt='b--s',fillstyle='none',label='opt')
-    plt.yticks(np.arange(0,0.3,0.05))
+    plt.yticks(np.arange(0,0.15,0.05))
     plt.legend(loc=1)
     plt.xlabel('$\log(m)$')
     plt.ylabel('error rate')
@@ -78,10 +78,10 @@ def main():
     rate_plot(samplesize,opt_filename,unif_filename,image_filename)
 
     ### plot sample points
-    # X = np.loadtxt('data/ideal_Xtest.txt')
-    # Y = np.loadtxt('data/ideal_Ytest.txt')
-    # ratio = 50 / len(X)
-    # dataplot.plot_circle(X,Y,ratio)
+    X = np.loadtxt('data/ideal_Xtest_2.txt')
+    Y = np.loadtxt('data/ideal_Ytest_2.txt')
+    ratio = 50 / len(X)
+    dataplot.plot_circle(X,Y,ratio)
 
 if __name__ == '__main__':
     main()
