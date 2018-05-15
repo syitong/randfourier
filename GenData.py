@@ -1,9 +1,10 @@
 import csv
 import numpy as np
 import rff
+from sklearn.model_selection import train_test_split
 ### set up data parameters
 def main():
-    data_para = {'gap':0.2,'label_prob':0.9,'samplesize':10**6,'testsize':0.2}
+    data_para = {'dim':10,'gap':0.2,'label_prob':0.9,'samplesize':10**6,'testsize':0.2}
     gap = data_para['gap']
     label_prob = data_para['label_prob']
     samplesize = data_para['samplesize']
@@ -15,10 +16,10 @@ def main():
     X_train_p,X_test,Y_train_p,Y_test = train_test_split(X,Y,
                                                          test_size = test_size,
                                                          random_state=0)
-    np.savetxt('data/ideal_Xtrain.txt',X_train_p)
-    np.savetxt('data/ideal_Xtest.txt',X_test)
-    np.savetxt('data/ideal_Ytrain.txt',Y_train_p)
-    np.savetxt('data/ideal_Ytest.txt',Y_test)
+    np.savetxt('data/ideal_Xtrain_10.txt',X_train_p)
+    np.savetxt('data/ideal_Xtest_10.txt',X_test)
+    np.savetxt('data/ideal_Ytrain_10.txt',Y_train_p)
+    np.savetxt('data/ideal_Ytest_10.txt',Y_test)
     with open('data/ideal_parameter.csv','w',newline='') as csvfile:
         fieldnames = list(data_para.keys())
         datawriter = csv.DictWriter(csvfile,fieldnames=fieldnames)
