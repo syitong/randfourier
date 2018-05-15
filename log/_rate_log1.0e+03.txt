@@ -1,0 +1,15 @@
+load data 23.0690
+shuffle data 0.3932
+ksvm loglambda = 1.000000 7.9222
+ksvm loglambda = -5.000000 2.9773
+trial 0 unif feature gen 0.0808
+trial 0, loglambda = 1.0, unif, train 0.0019
+trial 0, loglambda = 1.0, unif, test 0.3304
+trial 0, loglambda = -5.0, unif, train 0.0189
+trial 0, loglambda = -5.0, unif, test 0.3669
+trial 0 opt feature gen 2.9480
+trial 0, loglambda = 1.0, opt, train 0.0017
+trial 0, loglambda = 1.0, opt, test 0.3428
+trial 0 opt feature gen 2.0122
+trial 0, loglambda = -5.0, opt, train 0.0015
+trial 0, loglambda = -5.0, opt, test 0.3517

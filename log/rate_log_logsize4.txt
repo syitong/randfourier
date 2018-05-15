@@ -1,0 +1,8 @@
+load data 17.3594
+shuffle data 75.7969
+log samplesize 4.0, unif, gen features 1.4531
+log samplesize 4.0, unif, train 0.0312
+log samplesize 4.0, unif, test 0.1719
+log samplesize 4.0, opt, gen features 2.0938
+log samplesize 4.0, opt, train 0.0312
+log samplesize 4.0, opt, test 0.2031

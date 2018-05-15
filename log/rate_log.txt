@@ -1,0 +1,1802 @@
+load data 14.6250
+shuffle data 0.3750
+log samplesize 3.0, trial 0, unif, gen features 0.0781
+log samplesize 3.0, trial 0, unif, train 0.0000
+log samplesize 3.0, trial 0, unif, test 0.0938
+log samplesize 3.0, trial 0, opt, gen features 0.1562
+log samplesize 3.0, trial 0, opt, train 0.0000
+log samplesize 3.0, trial 0, opt, test 0.0938
+log samplesize 3.0, trial 1, unif, gen features 0.0938
+log samplesize 3.0, trial 1, unif, train 0.0000
+log samplesize 3.0, trial 1, unif, test 0.0938
+log samplesize 3.0, trial 1, opt, gen features 0.1406
+log samplesize 3.0, trial 1, opt, train 0.0000
+log samplesize 3.0, trial 1, opt, test 0.0781
+log samplesize 3.0, trial 2, unif, gen features 0.1094
+log samplesize 3.0, trial 2, unif, train 0.0000
+log samplesize 3.0, trial 2, unif, test 0.0625
+log samplesize 3.0, trial 2, opt, gen features 0.1875
+log samplesize 3.0, trial 2, opt, train 0.0000
+log samplesize 3.0, trial 2, opt, test 0.0938
+log samplesize 3.0, trial 3, unif, gen features 0.0781
+log samplesize 3.0, trial 3, unif, train 0.0000
+log samplesize 3.0, trial 3, unif, test 0.0781
+log samplesize 3.0, trial 3, opt, gen features 0.1562
+log samplesize 3.0, trial 3, opt, train 0.0000
+log samplesize 3.0, trial 3, opt, test 0.0938
+log samplesize 3.0, trial 4, unif, gen features 0.0938
+log samplesize 3.0, trial 4, unif, train 0.0000
+log samplesize 3.0, trial 4, unif, test 0.0938
+log samplesize 3.0, trial 4, opt, gen features 0.1406
+log samplesize 3.0, trial 4, opt, train 0.0000
+log samplesize 3.0, trial 4, opt, test 0.0938
+log samplesize 3.0, trial 5, unif, gen features 0.0625
+log samplesize 3.0, trial 5, unif, train 0.0000
+log samplesize 3.0, trial 5, unif, test 0.0938
+log samplesize 3.0, trial 5, opt, gen features 0.1562
+log samplesize 3.0, trial 5, opt, train 0.0000
+log samplesize 3.0, trial 5, opt, test 0.0938
+log samplesize 3.0, trial 6, unif, gen features 0.0781
+log samplesize 3.0, trial 6, unif, train 0.0000
+log samplesize 3.0, trial 6, unif, test 0.0469
+log samplesize 3.0, trial 6, opt, gen features 0.1719
+log samplesize 3.0, trial 6, opt, train 0.0000
+log samplesize 3.0, trial 6, opt, test 0.0625
+log samplesize 3.0, trial 7, unif, gen features 0.0938
+log samplesize 3.0, trial 7, unif, train 0.0000
+log samplesize 3.0, trial 7, unif, test 0.0938
+log samplesize 3.0, trial 7, opt, gen features 0.1562
+log samplesize 3.0, trial 7, opt, train 0.0000
+log samplesize 3.0, trial 7, opt, test 0.0938
+log samplesize 3.0, trial 8, unif, gen features 0.0781
+log samplesize 3.0, trial 8, unif, train 0.0000
+log samplesize 3.0, trial 8, unif, test 0.0938
+log samplesize 3.0, trial 8, opt, gen features 0.1406
+log samplesize 3.0, trial 8, opt, train 0.0000
+log samplesize 3.0, trial 8, opt, test 0.1094
+log samplesize 3.0, trial 9, unif, gen features 0.0625
+log samplesize 3.0, trial 9, unif, train 0.0000
+log samplesize 3.0, trial 9, unif, test 0.0938
+log samplesize 3.0, trial 9, opt, gen features 0.1562
+log samplesize 3.0, trial 9, opt, train 0.0000
+log samplesize 3.0, trial 9, opt, test 0.0781
+log samplesize 3.0, trial 10, unif, gen features 0.0938
+log samplesize 3.0, trial 10, unif, train 0.0000
+log samplesize 3.0, trial 10, unif, test 0.0938
+log samplesize 3.0, trial 10, opt, gen features 0.1562
+log samplesize 3.0, trial 10, opt, train 0.0000
+log samplesize 3.0, trial 10, opt, test 0.1094
+log samplesize 3.0, trial 11, unif, gen features 0.0625
+log samplesize 3.0, trial 11, unif, train 0.0000
+log samplesize 3.0, trial 11, unif, test 0.0625
+log samplesize 3.0, trial 11, opt, gen features 0.1406
+log samplesize 3.0, trial 11, opt, train 0.0000
+log samplesize 3.0, trial 11, opt, test 0.0938
+log samplesize 3.0, trial 12, unif, gen features 0.0781
+log samplesize 3.0, trial 12, unif, train 0.0000
+log samplesize 3.0, trial 12, unif, test 0.0625
+log samplesize 3.0, trial 12, opt, gen features 0.1719
+log samplesize 3.0, trial 12, opt, train 0.0000
+log samplesize 3.0, trial 12, opt, test 0.0938
+log samplesize 3.0, trial 13, unif, gen features 0.0781
+log samplesize 3.0, trial 13, unif, train 0.0000
+log samplesize 3.0, trial 13, unif, test 0.0781
+log samplesize 3.0, trial 13, opt, gen features 0.1562
+log samplesize 3.0, trial 13, opt, train 0.0000
+log samplesize 3.0, trial 13, opt, test 0.0781
+log samplesize 3.0, trial 14, unif, gen features 0.0781
+log samplesize 3.0, trial 14, unif, train 0.0000
+log samplesize 3.0, trial 14, unif, test 0.0938
+log samplesize 3.0, trial 14, opt, gen features 0.1562
+log samplesize 3.0, trial 14, opt, train 0.0000
+log samplesize 3.0, trial 14, opt, test 0.0938
+log samplesize 3.0, trial 15, unif, gen features 0.0625
+log samplesize 3.0, trial 15, unif, train 0.0312
+log samplesize 3.0, trial 15, unif, test 0.0938
+log samplesize 3.0, trial 15, opt, gen features 0.1719
+log samplesize 3.0, trial 15, opt, train 0.0000
+log samplesize 3.0, trial 15, opt, test 0.0938
+log samplesize 3.0, trial 16, unif, gen features 0.0469
+log samplesize 3.0, trial 16, unif, train 0.0000
+log samplesize 3.0, trial 16, unif, test 0.0938
+log samplesize 3.0, trial 16, opt, gen features 0.1719
+log samplesize 3.0, trial 16, opt, train 0.0000
+log samplesize 3.0, trial 16, opt, test 0.0938
+log samplesize 3.0, trial 17, unif, gen features 0.0625
+log samplesize 3.0, trial 17, unif, train 0.0312
+log samplesize 3.0, trial 17, unif, test 0.0938
+log samplesize 3.0, trial 17, opt, gen features 0.1562
+log samplesize 3.0, trial 17, opt, train 0.0000
+log samplesize 3.0, trial 17, opt, test 0.0938
+log samplesize 3.0, trial 18, unif, gen features 0.0781
+log samplesize 3.0, trial 18, unif, train 0.0000
+log samplesize 3.0, trial 18, unif, test 0.0625
+log samplesize 3.0, trial 18, opt, gen features 0.1562
+log samplesize 3.0, trial 18, opt, train 0.0312
+log samplesize 3.0, trial 18, opt, test 0.0781
+log samplesize 3.0, trial 19, unif, gen features 0.0625
+log samplesize 3.0, trial 19, unif, train 0.0000
+log samplesize 3.0, trial 19, unif, test 0.1250
+log samplesize 3.0, trial 19, opt, gen features 0.1406
+log samplesize 3.0, trial 19, opt, train 0.0000
+log samplesize 3.0, trial 19, opt, test 0.5312
+log samplesize 3.2, trial 0, unif, gen features 0.0781
+log samplesize 3.2, trial 0, unif, train 0.0000
+log samplesize 3.2, trial 0, unif, test 0.0938
+log samplesize 3.2, trial 0, opt, gen features 0.1562
+log samplesize 3.2, trial 0, opt, train 0.0312
+log samplesize 3.2, trial 0, opt, test 0.0625
+log samplesize 3.2, trial 1, unif, gen features 0.0781
+log samplesize 3.2, trial 1, unif, train 0.0000
+log samplesize 3.2, trial 1, unif, test 0.0938
+log samplesize 3.2, trial 1, opt, gen features 0.1562
+log samplesize 3.2, trial 1, opt, train 0.0312
+log samplesize 3.2, trial 1, opt, test 0.0625
+log samplesize 3.2, trial 2, unif, gen features 0.0781
+log samplesize 3.2, trial 2, unif, train 0.0000
+log samplesize 3.2, trial 2, unif, test 0.0938
+log samplesize 3.2, trial 2, opt, gen features 0.1562
+log samplesize 3.2, trial 2, opt, train 0.0000
+log samplesize 3.2, trial 2, opt, test 0.0625
+log samplesize 3.2, trial 3, unif, gen features 0.1250
+log samplesize 3.2, trial 3, unif, train 0.0000
+log samplesize 3.2, trial 3, unif, test 0.0938
+log samplesize 3.2, trial 3, opt, gen features 0.1406
+log samplesize 3.2, trial 3, opt, train 0.0000
+log samplesize 3.2, trial 3, opt, test 0.0938
+log samplesize 3.2, trial 4, unif, gen features 0.0938
+log samplesize 3.2, trial 4, unif, train 0.0000
+log samplesize 3.2, trial 4, unif, test 0.0938
+log samplesize 3.2, trial 4, opt, gen features 0.1562
+log samplesize 3.2, trial 4, opt, train 0.0000
+log samplesize 3.2, trial 4, opt, test 0.0781
+log samplesize 3.2, trial 5, unif, gen features 0.0625
+log samplesize 3.2, trial 5, unif, train 0.0312
+log samplesize 3.2, trial 5, unif, test 0.0938
+log samplesize 3.2, trial 5, opt, gen features 0.1875
+log samplesize 3.2, trial 5, opt, train 0.0000
+log samplesize 3.2, trial 5, opt, test 0.0938
+log samplesize 3.2, trial 6, unif, gen features 0.0625
+log samplesize 3.2, trial 6, unif, train 0.0000
+log samplesize 3.2, trial 6, unif, test 0.1250
+log samplesize 3.2, trial 6, opt, gen features 0.1406
+log samplesize 3.2, trial 6, opt, train 0.0000
+log samplesize 3.2, trial 6, opt, test 0.0625
+log samplesize 3.2, trial 7, unif, gen features 0.0938
+log samplesize 3.2, trial 7, unif, train 0.0000
+log samplesize 3.2, trial 7, unif, test 0.0938
+log samplesize 3.2, trial 7, opt, gen features 0.1875
+log samplesize 3.2, trial 7, opt, train 0.0000
+log samplesize 3.2, trial 7, opt, test 0.0625
+log samplesize 3.2, trial 8, unif, gen features 0.0781
+log samplesize 3.2, trial 8, unif, train 0.0000
+log samplesize 3.2, trial 8, unif, test 0.0781
+log samplesize 3.2, trial 8, opt, gen features 0.1875
+log samplesize 3.2, trial 8, opt, train 0.0000
+log samplesize 3.2, trial 8, opt, test 0.0938
+log samplesize 3.2, trial 9, unif, gen features 0.0625
+log samplesize 3.2, trial 9, unif, train 0.0312
+log samplesize 3.2, trial 9, unif, test 0.0938
+log samplesize 3.2, trial 9, opt, gen features 0.1562
+log samplesize 3.2, trial 9, opt, train 0.0000
+log samplesize 3.2, trial 9, opt, test 0.1094
+log samplesize 3.2, trial 10, unif, gen features 0.0625
+log samplesize 3.2, trial 10, unif, train 0.0000
+log samplesize 3.2, trial 10, unif, test 0.0938
+log samplesize 3.2, trial 10, opt, gen features 0.1875
+log samplesize 3.2, trial 10, opt, train 0.0000
+log samplesize 3.2, trial 10, opt, test 0.0938
+log samplesize 3.2, trial 11, unif, gen features 0.0625
+log samplesize 3.2, trial 11, unif, train 0.0000
+log samplesize 3.2, trial 11, unif, test 0.1250
+log samplesize 3.2, trial 11, opt, gen features 0.1562
+log samplesize 3.2, trial 11, opt, train 0.0000
+log samplesize 3.2, trial 11, opt, test 0.0938
+log samplesize 3.2, trial 12, unif, gen features 0.0625
+log samplesize 3.2, trial 12, unif, train 0.0000
+log samplesize 3.2, trial 12, unif, test 0.0938
+log samplesize 3.2, trial 12, opt, gen features 0.1562
+log samplesize 3.2, trial 12, opt, train 0.0000
+log samplesize 3.2, trial 12, opt, test 0.0938
+log samplesize 3.2, trial 13, unif, gen features 0.0938
+log samplesize 3.2, trial 13, unif, train 0.0000
+log samplesize 3.2, trial 13, unif, test 0.0781
+log samplesize 3.2, trial 13, opt, gen features 0.1562
+log samplesize 3.2, trial 13, opt, train 0.0000
+log samplesize 3.2, trial 13, opt, test 0.0781
+log samplesize 3.2, trial 14, unif, gen features 0.0781
+log samplesize 3.2, trial 14, unif, train 0.0000
+log samplesize 3.2, trial 14, unif, test 0.0938
+log samplesize 3.2, trial 14, opt, gen features 0.1875
+log samplesize 3.2, trial 14, opt, train 0.0000
+log samplesize 3.2, trial 14, opt, test 0.0938
+log samplesize 3.2, trial 15, unif, gen features 0.0938
+log samplesize 3.2, trial 15, unif, train 0.0000
+log samplesize 3.2, trial 15, unif, test 0.0781
+log samplesize 3.2, trial 15, opt, gen features 0.1562
+log samplesize 3.2, trial 15, opt, train 0.0000
+log samplesize 3.2, trial 15, opt, test 0.0938
+log samplesize 3.2, trial 16, unif, gen features 0.0781
+log samplesize 3.2, trial 16, unif, train 0.0000
+log samplesize 3.2, trial 16, unif, test 0.1250
+log samplesize 3.2, trial 16, opt, gen features 0.1406
+log samplesize 3.2, trial 16, opt, train 0.0000
+log samplesize 3.2, trial 16, opt, test 0.0625
+log samplesize 3.2, trial 17, unif, gen features 0.0938
+log samplesize 3.2, trial 17, unif, train 0.0000
+log samplesize 3.2, trial 17, unif, test 0.0938
+log samplesize 3.2, trial 17, opt, gen features 0.1406
+log samplesize 3.2, trial 17, opt, train 0.0000
+log samplesize 3.2, trial 17, opt, test 0.0938
+log samplesize 3.2, trial 18, unif, gen features 0.0938
+log samplesize 3.2, trial 18, unif, train 0.0000
+log samplesize 3.2, trial 18, unif, test 0.0938
+log samplesize 3.2, trial 18, opt, gen features 0.1562
+log samplesize 3.2, trial 18, opt, train 0.0000
+log samplesize 3.2, trial 18, opt, test 0.0938
+log samplesize 3.2, trial 19, unif, gen features 0.0625
+log samplesize 3.2, trial 19, unif, train 0.0000
+log samplesize 3.2, trial 19, unif, test 0.1250
+log samplesize 3.2, trial 19, opt, gen features 0.1250
+log samplesize 3.2, trial 19, opt, train 0.0312
+log samplesize 3.2, trial 19, opt, test 0.5312
+log samplesize 3.4, trial 0, unif, gen features 0.0469
+log samplesize 3.4, trial 0, unif, train 0.0000
+log samplesize 3.4, trial 0, unif, test 0.0781
+log samplesize 3.4, trial 0, opt, gen features 0.1875
+log samplesize 3.4, trial 0, opt, train 0.0000
+log samplesize 3.4, trial 0, opt, test 0.1250
+log samplesize 3.4, trial 1, unif, gen features 0.0625
+log samplesize 3.4, trial 1, unif, train 0.0000
+log samplesize 3.4, trial 1, unif, test 0.0781
+log samplesize 3.4, trial 1, opt, gen features 0.1562
+log samplesize 3.4, trial 1, opt, train 0.0000
+log samplesize 3.4, trial 1, opt, test 0.0938
+log samplesize 3.4, trial 2, unif, gen features 0.0938
+log samplesize 3.4, trial 2, unif, train 0.0000
+log samplesize 3.4, trial 2, unif, test 0.0781
+log samplesize 3.4, trial 2, opt, gen features 0.1875
+log samplesize 3.4, trial 2, opt, train 0.0000
+log samplesize 3.4, trial 2, opt, test 0.0938
+log samplesize 3.4, trial 3, unif, gen features 0.0469
+log samplesize 3.4, trial 3, unif, train 0.0312
+log samplesize 3.4, trial 3, unif, test 0.0781
+log samplesize 3.4, trial 3, opt, gen features 0.1875
+log samplesize 3.4, trial 3, opt, train 0.0000
+log samplesize 3.4, trial 3, opt, test 0.0938
+log samplesize 3.4, trial 4, unif, gen features 0.0625
+log samplesize 3.4, trial 4, unif, train 0.0312
+log samplesize 3.4, trial 4, unif, test 0.0625
+log samplesize 3.4, trial 4, opt, gen features 0.2031
+log samplesize 3.4, trial 4, opt, train 0.0000
+log samplesize 3.4, trial 4, opt, test 0.0781
+log samplesize 3.4, trial 5, unif, gen features 0.0781
+log samplesize 3.4, trial 5, unif, train 0.0000
+log samplesize 3.4, trial 5, unif, test 0.0938
+log samplesize 3.4, trial 5, opt, gen features 0.1406
+log samplesize 3.4, trial 5, opt, train 0.0312
+log samplesize 3.4, trial 5, opt, test 0.0938
+log samplesize 3.4, trial 6, unif, gen features 0.0625
+log samplesize 3.4, trial 6, unif, train 0.0000
+log samplesize 3.4, trial 6, unif, test 0.0938
+log samplesize 3.4, trial 6, opt, gen features 0.1406
+log samplesize 3.4, trial 6, opt, train 0.0312
+log samplesize 3.4, trial 6, opt, test 0.0625
+log samplesize 3.4, trial 7, unif, gen features 0.0938
+log samplesize 3.4, trial 7, unif, train 0.0000
+log samplesize 3.4, trial 7, unif, test 0.0781
+log samplesize 3.4, trial 7, opt, gen features 0.1250
+log samplesize 3.4, trial 7, opt, train 0.0312
+log samplesize 3.4, trial 7, opt, test 0.0625
+log samplesize 3.4, trial 8, unif, gen features 0.0938
+log samplesize 3.4, trial 8, unif, train 0.0000
+log samplesize 3.4, trial 8, unif, test 0.0625
+log samplesize 3.4, trial 8, opt, gen features 0.1875
+log samplesize 3.4, trial 8, opt, train 0.0000
+log samplesize 3.4, trial 8, opt, test 0.0625
+log samplesize 3.4, trial 9, unif, gen features 0.0938
+log samplesize 3.4, trial 9, unif, train 0.0000
+log samplesize 3.4, trial 9, unif, test 0.0938
+log samplesize 3.4, trial 9, opt, gen features 0.1719
+log samplesize 3.4, trial 9, opt, train 0.0000
+log samplesize 3.4, trial 9, opt, test 0.0938
+log samplesize 3.4, trial 10, unif, gen features 0.0938
+log samplesize 3.4, trial 10, unif, train 0.0312
+log samplesize 3.4, trial 10, unif, test 0.0781
+log samplesize 3.4, trial 10, opt, gen features 0.1562
+log samplesize 3.4, trial 10, opt, train 0.0000
+log samplesize 3.4, trial 10, opt, test 0.0938
+log samplesize 3.4, trial 11, unif, gen features 0.0938
+log samplesize 3.4, trial 11, unif, train 0.0000
+log samplesize 3.4, trial 11, unif, test 0.0938
+log samplesize 3.4, trial 11, opt, gen features 0.1719
+log samplesize 3.4, trial 11, opt, train 0.0000
+log samplesize 3.4, trial 11, opt, test 0.0938
+log samplesize 3.4, trial 12, unif, gen features 0.0625
+log samplesize 3.4, trial 12, unif, train 0.0312
+log samplesize 3.4, trial 12, unif, test 0.0781
+log samplesize 3.4, trial 12, opt, gen features 0.1406
+log samplesize 3.4, trial 12, opt, train 0.0312
+log samplesize 3.4, trial 12, opt, test 0.0938
+log samplesize 3.4, trial 13, unif, gen features 0.0469
+log samplesize 3.4, trial 13, unif, train 0.0000
+log samplesize 3.4, trial 13, unif, test 0.0938
+log samplesize 3.4, trial 13, opt, gen features 0.1719
+log samplesize 3.4, trial 13, opt, train 0.0000
+log samplesize 3.4, trial 13, opt, test 0.0781
+log samplesize 3.4, trial 14, unif, gen features 0.0938
+log samplesize 3.4, trial 14, unif, train 0.0000
+log samplesize 3.4, trial 14, unif, test 0.0938
+log samplesize 3.4, trial 14, opt, gen features 0.1875
+log samplesize 3.4, trial 14, opt, train 0.0000
+log samplesize 3.4, trial 14, opt, test 0.0781
+log samplesize 3.4, trial 15, unif, gen features 0.0625
+log samplesize 3.4, trial 15, unif, train 0.0312
+log samplesize 3.4, trial 15, unif, test 0.0938
+log samplesize 3.4, trial 15, opt, gen features 0.1562
+log samplesize 3.4, trial 15, opt, train 0.0312
+log samplesize 3.4, trial 15, opt, test 0.0625
+log samplesize 3.4, trial 16, unif, gen features 0.0938
+log samplesize 3.4, trial 16, unif, train 0.0000
+log samplesize 3.4, trial 16, unif, test 0.0938
+log samplesize 3.4, trial 16, opt, gen features 0.1875
+log samplesize 3.4, trial 16, opt, train 0.0000
+log samplesize 3.4, trial 16, opt, test 0.0938
+log samplesize 3.4, trial 17, unif, gen features 0.0625
+log samplesize 3.4, trial 17, unif, train 0.0312
+log samplesize 3.4, trial 17, unif, test 0.0938
+log samplesize 3.4, trial 17, opt, gen features 0.1875
+log samplesize 3.4, trial 17, opt, train 0.0000
+log samplesize 3.4, trial 17, opt, test 0.0938
+log samplesize 3.4, trial 18, unif, gen features 0.0625
+log samplesize 3.4, trial 18, unif, train 0.0312
+log samplesize 3.4, trial 18, unif, test 0.0625
+log samplesize 3.4, trial 18, opt, gen features 0.1562
+log samplesize 3.4, trial 18, opt, train 0.0000
+log samplesize 3.4, trial 18, opt, test 0.0938
+log samplesize 3.4, trial 19, unif, gen features 0.0938
+log samplesize 3.4, trial 19, unif, train 0.0000
+log samplesize 3.4, trial 19, unif, test 0.0781
+log samplesize 3.4, trial 19, opt, gen features 0.1875
+log samplesize 3.4, trial 19, opt, train 0.0000
+log samplesize 3.4, trial 19, opt, test 0.5156
+log samplesize 3.6, trial 0, unif, gen features 0.0625
+log samplesize 3.6, trial 0, unif, train 0.0312
+log samplesize 3.6, trial 0, unif, test 0.0938
+log samplesize 3.6, trial 0, opt, gen features 0.2188
+log samplesize 3.6, trial 0, opt, train 0.0000
+log samplesize 3.6, trial 0, opt, test 0.0938
+log samplesize 3.6, trial 1, unif, gen features 0.1094
+log samplesize 3.6, trial 1, unif, train 0.0000
+log samplesize 3.6, trial 1, unif, test 0.0938
+log samplesize 3.6, trial 1, opt, gen features 0.2188
+log samplesize 3.6, trial 1, opt, train 0.0312
+log samplesize 3.6, trial 1, opt, test 0.0938
+log samplesize 3.6, trial 2, unif, gen features 0.0781
+log samplesize 3.6, trial 2, unif, train 0.0000
+log samplesize 3.6, trial 2, unif, test 0.1250
+log samplesize 3.6, trial 2, opt, gen features 0.2188
+log samplesize 3.6, trial 2, opt, train 0.0312
+log samplesize 3.6, trial 2, opt, test 0.0625
+log samplesize 3.6, trial 3, unif, gen features 0.1094
+log samplesize 3.6, trial 3, unif, train 0.0312
+log samplesize 3.6, trial 3, unif, test 0.0781
+log samplesize 3.6, trial 3, opt, gen features 0.2031
+log samplesize 3.6, trial 3, opt, train 0.0000
+log samplesize 3.6, trial 3, opt, test 0.1250
+log samplesize 3.6, trial 4, unif, gen features 0.0938
+log samplesize 3.6, trial 4, unif, train 0.0000
+log samplesize 3.6, trial 4, unif, test 0.0938
+log samplesize 3.6, trial 4, opt, gen features 0.1719
+log samplesize 3.6, trial 4, opt, train 0.0312
+log samplesize 3.6, trial 4, opt, test 0.0781
+log samplesize 3.6, trial 5, unif, gen features 0.1250
+log samplesize 3.6, trial 5, unif, train 0.0000
+log samplesize 3.6, trial 5, unif, test 0.0625
+log samplesize 3.6, trial 5, opt, gen features 0.2188
+log samplesize 3.6, trial 5, opt, train 0.0000
+log samplesize 3.6, trial 5, opt, test 0.0781
+log samplesize 3.6, trial 6, unif, gen features 0.1250
+log samplesize 3.6, trial 6, unif, train 0.0312
+log samplesize 3.6, trial 6, unif, test 0.0469
+log samplesize 3.6, trial 6, opt, gen features 0.2188
+log samplesize 3.6, trial 6, opt, train 0.0312
+log samplesize 3.6, trial 6, opt, test 0.0938
+log samplesize 3.6, trial 7, unif, gen features 0.0938
+log samplesize 3.6, trial 7, unif, train 0.0312
+log samplesize 3.6, trial 7, unif, test 0.0469
+log samplesize 3.6, trial 7, opt, gen features 0.2188
+log samplesize 3.6, trial 7, opt, train 0.0312
+log samplesize 3.6, trial 7, opt, test 0.0938
+log samplesize 3.6, trial 8, unif, gen features 0.1094
+log samplesize 3.6, trial 8, unif, train 0.0312
+log samplesize 3.6, trial 8, unif, test 0.0938
+log samplesize 3.6, trial 8, opt, gen features 0.2188
+log samplesize 3.6, trial 8, opt, train 0.0000
+log samplesize 3.6, trial 8, opt, test 0.0938
+log samplesize 3.6, trial 9, unif, gen features 0.1094
+log samplesize 3.6, trial 9, unif, train 0.0312
+log samplesize 3.6, trial 9, unif, test 0.0938
+log samplesize 3.6, trial 9, opt, gen features 0.1875
+log samplesize 3.6, trial 9, opt, train 0.0312
+log samplesize 3.6, trial 9, opt, test 0.0781
+log samplesize 3.6, trial 10, unif, gen features 0.0938
+log samplesize 3.6, trial 10, unif, train 0.0000
+log samplesize 3.6, trial 10, unif, test 0.1250
+log samplesize 3.6, trial 10, opt, gen features 0.1719
+log samplesize 3.6, trial 10, opt, train 0.0000
+log samplesize 3.6, trial 10, opt, test 0.1250
+log samplesize 3.6, trial 11, unif, gen features 0.0938
+log samplesize 3.6, trial 11, unif, train 0.0312
+log samplesize 3.6, trial 11, unif, test 0.0938
+log samplesize 3.6, trial 11, opt, gen features 0.2031
+log samplesize 3.6, trial 11, opt, train 0.0000
+log samplesize 3.6, trial 11, opt, test 0.0781
+log samplesize 3.6, trial 12, unif, gen features 0.1250
+log samplesize 3.6, trial 12, unif, train 0.0000
+log samplesize 3.6, trial 12, unif, test 0.0938
+log samplesize 3.6, trial 12, opt, gen features 0.2188
+log samplesize 3.6, trial 12, opt, train 0.0000
+log samplesize 3.6, trial 12, opt, test 0.1250
+log samplesize 3.6, trial 13, unif, gen features 0.0938
+log samplesize 3.6, trial 13, unif, train 0.0312
+log samplesize 3.6, trial 13, unif, test 0.0625
+log samplesize 3.6, trial 13, opt, gen features 0.1875
+log samplesize 3.6, trial 13, opt, train 0.0312
+log samplesize 3.6, trial 13, opt, test 0.0938
+log samplesize 3.6, trial 14, unif, gen features 0.0938
+log samplesize 3.6, trial 14, unif, train 0.0000
+log samplesize 3.6, trial 14, unif, test 0.1250
+log samplesize 3.6, trial 14, opt, gen features 0.1875
+log samplesize 3.6, trial 14, opt, train 0.0000
+log samplesize 3.6, trial 14, opt, test 0.0781
+log samplesize 3.6, trial 15, unif, gen features 0.0938
+log samplesize 3.6, trial 15, unif, train 0.0312
+log samplesize 3.6, trial 15, unif, test 0.0938
+log samplesize 3.6, trial 15, opt, gen features 0.1875
+log samplesize 3.6, trial 15, opt, train 0.0312
+log samplesize 3.6, trial 15, opt, test 0.0938
+log samplesize 3.6, trial 16, unif, gen features 0.0938
+log samplesize 3.6, trial 16, unif, train 0.0312
+log samplesize 3.6, trial 16, unif, test 0.0938
+log samplesize 3.6, trial 16, opt, gen features 0.2031
+log samplesize 3.6, trial 16, opt, train 0.0000
+log samplesize 3.6, trial 16, opt, test 0.0938
+log samplesize 3.6, trial 17, unif, gen features 0.1250
+log samplesize 3.6, trial 17, unif, train 0.0000
+log samplesize 3.6, trial 17, unif, test 0.0938
+log samplesize 3.6, trial 17, opt, gen features 0.1875
+log samplesize 3.6, trial 17, opt, train 0.0156
+log samplesize 3.6, trial 17, opt, test 0.1250
+log samplesize 3.6, trial 18, unif, gen features 0.0938
+log samplesize 3.6, trial 18, unif, train 0.0000
+log samplesize 3.6, trial 18, unif, test 0.0938
+log samplesize 3.6, trial 18, opt, gen features 0.2188
+log samplesize 3.6, trial 18, opt, train 0.0000
+log samplesize 3.6, trial 18, opt, test 0.1250
+log samplesize 3.6, trial 19, unif, gen features 0.0938
+log samplesize 3.6, trial 19, unif, train 0.0156
+log samplesize 3.6, trial 19, unif, test 0.0938
+log samplesize 3.6, trial 19, opt, gen features 0.1875
+log samplesize 3.6, trial 19, opt, train 0.0312
+log samplesize 3.6, trial 19, opt, test 0.5625
+log samplesize 3.8, trial 0, unif, gen features 0.0781
+log samplesize 3.8, trial 0, unif, train 0.0000
+log samplesize 3.8, trial 0, unif, test 0.1094
+log samplesize 3.8, trial 0, opt, gen features 0.2188
+log samplesize 3.8, trial 0, opt, train 0.0000
+log samplesize 3.8, trial 0, opt, test 0.0781
+log samplesize 3.8, trial 1, unif, gen features 0.1094
+log samplesize 3.8, trial 1, unif, train 0.0000
+log samplesize 3.8, trial 1, unif, test 0.0938
+log samplesize 3.8, trial 1, opt, gen features 0.1875
+log samplesize 3.8, trial 1, opt, train 0.0312
+log samplesize 3.8, trial 1, opt, test 0.0938
+log samplesize 3.8, trial 2, unif, gen features 0.1250
+log samplesize 3.8, trial 2, unif, train 0.0312
+log samplesize 3.8, trial 2, unif, test 0.0938
+log samplesize 3.8, trial 2, opt, gen features 0.2031
+log samplesize 3.8, trial 2, opt, train 0.0312
+log samplesize 3.8, trial 2, opt, test 0.0938
+log samplesize 3.8, trial 3, unif, gen features 0.0781
+log samplesize 3.8, trial 3, unif, train 0.0312
+log samplesize 3.8, trial 3, unif, test 0.0938
+log samplesize 3.8, trial 3, opt, gen features 0.2188
+log samplesize 3.8, trial 3, opt, train 0.0000
+log samplesize 3.8, trial 3, opt, test 0.1250
+log samplesize 3.8, trial 4, unif, gen features 0.0938
+log samplesize 3.8, trial 4, unif, train 0.0312
+log samplesize 3.8, trial 4, unif, test 0.0781
+log samplesize 3.8, trial 4, opt, gen features 0.2031
+log samplesize 3.8, trial 4, opt, train 0.0312
+log samplesize 3.8, trial 4, opt, test 0.0781
+log samplesize 3.8, trial 5, unif, gen features 0.1250
+log samplesize 3.8, trial 5, unif, train 0.0000
+log samplesize 3.8, trial 5, unif, test 0.1094
+log samplesize 3.8, trial 5, opt, gen features 0.1875
+log samplesize 3.8, trial 5, opt, train 0.0312
+log samplesize 3.8, trial 5, opt, test 0.0938
+log samplesize 3.8, trial 6, unif, gen features 0.0781
+log samplesize 3.8, trial 6, unif, train 0.0625
+log samplesize 3.8, trial 6, unif, test 0.1250
+log samplesize 3.8, trial 6, opt, gen features 0.1875
+log samplesize 3.8, trial 6, opt, train 0.0312
+log samplesize 3.8, trial 6, opt, test 0.0625
+log samplesize 3.8, trial 7, unif, gen features 0.1250
+log samplesize 3.8, trial 7, unif, train 0.0312
+log samplesize 3.8, trial 7, unif, test 0.0781
+log samplesize 3.8, trial 7, opt, gen features 0.2188
+log samplesize 3.8, trial 7, opt, train 0.0000
+log samplesize 3.8, trial 7, opt, test 0.1094
+log samplesize 3.8, trial 8, unif, gen features 0.0938
+log samplesize 3.8, trial 8, unif, train 0.0312
+log samplesize 3.8, trial 8, unif, test 0.0781
+log samplesize 3.8, trial 8, opt, gen features 0.2188
+log samplesize 3.8, trial 8, opt, train 0.0312
+log samplesize 3.8, trial 8, opt, test 0.0938
+log samplesize 3.8, trial 9, unif, gen features 0.0938
+log samplesize 3.8, trial 9, unif, train 0.0312
+log samplesize 3.8, trial 9, unif, test 0.0938
+log samplesize 3.8, trial 9, opt, gen features 0.2031
+log samplesize 3.8, trial 9, opt, train 0.0000
+log samplesize 3.8, trial 9, opt, test 0.1250
+log samplesize 3.8, trial 10, unif, gen features 0.0938
+log samplesize 3.8, trial 10, unif, train 0.0312
+log samplesize 3.8, trial 10, unif, test 0.0938
+log samplesize 3.8, trial 10, opt, gen features 0.2188
+log samplesize 3.8, trial 10, opt, train 0.0000
+log samplesize 3.8, trial 10, opt, test 0.1094
+log samplesize 3.8, trial 11, unif, gen features 0.0938
+log samplesize 3.8, trial 11, unif, train 0.0312
+log samplesize 3.8, trial 11, unif, test 0.0781
+log samplesize 3.8, trial 11, opt, gen features 0.2031
+log samplesize 3.8, trial 11, opt, train 0.0000
+log samplesize 3.8, trial 11, opt, test 0.1250
+log samplesize 3.8, trial 12, unif, gen features 0.0938
+log samplesize 3.8, trial 12, unif, train 0.0312
+log samplesize 3.8, trial 12, unif, test 0.0938
+log samplesize 3.8, trial 12, opt, gen features 0.1719
+log samplesize 3.8, trial 12, opt, train 0.0312
+log samplesize 3.8, trial 12, opt, test 0.0938
+log samplesize 3.8, trial 13, unif, gen features 0.1250
+log samplesize 3.8, trial 13, unif, train 0.0000
+log samplesize 3.8, trial 13, unif, test 0.1094
+log samplesize 3.8, trial 13, opt, gen features 0.1719
+log samplesize 3.8, trial 13, opt, train 0.0312
+log samplesize 3.8, trial 13, opt, test 0.0938
+log samplesize 3.8, trial 14, unif, gen features 0.1094
+log samplesize 3.8, trial 14, unif, train 0.0312
+log samplesize 3.8, trial 14, unif, test 0.0625
+log samplesize 3.8, trial 14, opt, gen features 0.2188
+log samplesize 3.8, trial 14, opt, train 0.0312
+log samplesize 3.8, trial 14, opt, test 0.0781
+log samplesize 3.8, trial 15, unif, gen features 0.1250
+log samplesize 3.8, trial 15, unif, train 0.0000
+log samplesize 3.8, trial 15, unif, test 0.0938
+log samplesize 3.8, trial 15, opt, gen features 0.2344
+log samplesize 3.8, trial 15, opt, train 0.0312
+log samplesize 3.8, trial 15, opt, test 0.0938
+log samplesize 3.8, trial 16, unif, gen features 0.0938
+log samplesize 3.8, trial 16, unif, train 0.0312
+log samplesize 3.8, trial 16, unif, test 0.0938
+log samplesize 3.8, trial 16, opt, gen features 0.2031
+log samplesize 3.8, trial 16, opt, train 0.0312
+log samplesize 3.8, trial 16, opt, test 0.0938
+log samplesize 3.8, trial 17, unif, gen features 0.0625
+log samplesize 3.8, trial 17, unif, train 0.0312
+log samplesize 3.8, trial 17, unif, test 0.0938
+log samplesize 3.8, trial 17, opt, gen features 0.1875
+log samplesize 3.8, trial 17, opt, train 0.0312
+log samplesize 3.8, trial 17, opt, test 0.0938
+log samplesize 3.8, trial 18, unif, gen features 0.1250
+log samplesize 3.8, trial 18, unif, train 0.0312
+log samplesize 3.8, trial 18, unif, test 0.0781
+log samplesize 3.8, trial 18, opt, gen features 0.2188
+log samplesize 3.8, trial 18, opt, train 0.0000
+log samplesize 3.8, trial 18, opt, test 0.1094
+log samplesize 3.8, trial 19, unif, gen features 0.0781
+log samplesize 3.8, trial 19, unif, train 0.0312
+log samplesize 3.8, trial 19, unif, test 0.0938
+log samplesize 3.8, trial 19, opt, gen features 0.2188
+log samplesize 3.8, trial 19, opt, train 0.0312
+log samplesize 3.8, trial 19, opt, test 0.5625
+log samplesize 4.0, trial 0, unif, gen features 0.0938
+log samplesize 4.0, trial 0, unif, train 0.0625
+log samplesize 4.0, trial 0, unif, test 0.0938
+log samplesize 4.0, trial 0, opt, gen features 0.2812
+log samplesize 4.0, trial 0, opt, train 0.0312
+log samplesize 4.0, trial 0, opt, test 0.0781
+log samplesize 4.0, trial 1, unif, gen features 0.1250
+log samplesize 4.0, trial 1, unif, train 0.0625
+log samplesize 4.0, trial 1, unif, test 0.0781
+log samplesize 4.0, trial 1, opt, gen features 0.2500
+log samplesize 4.0, trial 1, opt, train 0.0469
+log samplesize 4.0, trial 1, opt, test 0.0938
+log samplesize 4.0, trial 2, unif, gen features 0.0938
+log samplesize 4.0, trial 2, unif, train 0.0469
+log samplesize 4.0, trial 2, unif, test 0.0781
+log samplesize 4.0, trial 2, opt, gen features 0.2188
+log samplesize 4.0, trial 2, opt, train 0.0625
+log samplesize 4.0, trial 2, opt, test 0.0938
+log samplesize 4.0, trial 3, unif, gen features 0.1562
+log samplesize 4.0, trial 3, unif, train 0.0312
+log samplesize 4.0, trial 3, unif, test 0.0625
+log samplesize 4.0, trial 3, opt, gen features 0.2500
+log samplesize 4.0, trial 3, opt, train 0.0312
+log samplesize 4.0, trial 3, opt, test 0.0938
+log samplesize 4.0, trial 4, unif, gen features 0.1250
+log samplesize 4.0, trial 4, unif, train 0.0312
+log samplesize 4.0, trial 4, unif, test 0.1250
+log samplesize 4.0, trial 4, opt, gen features 0.2188
+log samplesize 4.0, trial 4, opt, train 0.0625
+log samplesize 4.0, trial 4, opt, test 0.0938
+log samplesize 4.0, trial 5, unif, gen features 0.1562
+log samplesize 4.0, trial 5, unif, train 0.0625
+log samplesize 4.0, trial 5, unif, test 0.0781
+log samplesize 4.0, trial 5, opt, gen features 0.2500
+log samplesize 4.0, trial 5, opt, train 0.0625
+log samplesize 4.0, trial 5, opt, test 0.0938
+log samplesize 4.0, trial 6, unif, gen features 0.1250
+log samplesize 4.0, trial 6, unif, train 0.0312
+log samplesize 4.0, trial 6, unif, test 0.1250
+log samplesize 4.0, trial 6, opt, gen features 0.2500
+log samplesize 4.0, trial 6, opt, train 0.0469
+log samplesize 4.0, trial 6, opt, test 0.0938
+log samplesize 4.0, trial 7, unif, gen features 0.1250
+log samplesize 4.0, trial 7, unif, train 0.0469
+log samplesize 4.0, trial 7, unif, test 0.0781
+log samplesize 4.0, trial 7, opt, gen features 0.2500
+log samplesize 4.0, trial 7, opt, train 0.0625
+log samplesize 4.0, trial 7, opt, test 0.0938
+log samplesize 4.0, trial 8, unif, gen features 0.1094
+log samplesize 4.0, trial 8, unif, train 0.0312
+log samplesize 4.0, trial 8, unif, test 0.0781
+log samplesize 4.0, trial 8, opt, gen features 0.2500
+log samplesize 4.0, trial 8, opt, train 0.0625
+log samplesize 4.0, trial 8, opt, test 0.0781
+log samplesize 4.0, trial 9, unif, gen features 0.1250
+log samplesize 4.0, trial 9, unif, train 0.0625
+log samplesize 4.0, trial 9, unif, test 0.1250
+log samplesize 4.0, trial 9, opt, gen features 0.2188
+log samplesize 4.0, trial 9, opt, train 0.0625
+log samplesize 4.0, trial 9, opt, test 0.0938
+log samplesize 4.0, trial 10, unif, gen features 0.1562
+log samplesize 4.0, trial 10, unif, train 0.0625
+log samplesize 4.0, trial 10, unif, test 0.0781
+log samplesize 4.0, trial 10, opt, gen features 0.2500
+log samplesize 4.0, trial 10, opt, train 0.0625
+log samplesize 4.0, trial 10, opt, test 0.0781
+log samplesize 4.0, trial 11, unif, gen features 0.1094
+log samplesize 4.0, trial 11, unif, train 0.0781
+log samplesize 4.0, trial 11, unif, test 0.0938
+log samplesize 4.0, trial 11, opt, gen features 0.2500
+log samplesize 4.0, trial 11, opt, train 0.0312
+log samplesize 4.0, trial 11, opt, test 0.1250
+log samplesize 4.0, trial 12, unif, gen features 0.1250
+log samplesize 4.0, trial 12, unif, train 0.0312
+log samplesize 4.0, trial 12, unif, test 0.0781
+log samplesize 4.0, trial 12, opt, gen features 0.2656
+log samplesize 4.0, trial 12, opt, train 0.0625
+log samplesize 4.0, trial 12, opt, test 0.0938
+log samplesize 4.0, trial 13, unif, gen features 0.1250
+log samplesize 4.0, trial 13, unif, train 0.0312
+log samplesize 4.0, trial 13, unif, test 0.1094
+log samplesize 4.0, trial 13, opt, gen features 0.2500
+log samplesize 4.0, trial 13, opt, train 0.0625
+log samplesize 4.0, trial 13, opt, test 0.0938
+log samplesize 4.0, trial 14, unif, gen features 0.1250
+log samplesize 4.0, trial 14, unif, train 0.0625
+log samplesize 4.0, trial 14, unif, test 0.1250
+log samplesize 4.0, trial 14, opt, gen features 0.2344
+log samplesize 4.0, trial 14, opt, train 0.0312
+log samplesize 4.0, trial 14, opt, test 0.1250
+log samplesize 4.0, trial 15, unif, gen features 0.1250
+log samplesize 4.0, trial 15, unif, train 0.0312
+log samplesize 4.0, trial 15, unif, test 0.0938
+log samplesize 4.0, trial 15, opt, gen features 0.2656
+log samplesize 4.0, trial 15, opt, train 0.0312
+log samplesize 4.0, trial 15, opt, test 0.0938
+log samplesize 4.0, trial 16, unif, gen features 0.1250
+log samplesize 4.0, trial 16, unif, train 0.0312
+log samplesize 4.0, trial 16, unif, test 0.0938
+log samplesize 4.0, trial 16, opt, gen features 0.2656
+log samplesize 4.0, trial 16, opt, train 0.0312
+log samplesize 4.0, trial 16, opt, test 0.0781
+log samplesize 4.0, trial 17, unif, gen features 0.1406
+log samplesize 4.0, trial 17, unif, train 0.0625
+log samplesize 4.0, trial 17, unif, test 0.0938
+log samplesize 4.0, trial 17, opt, gen features 0.2188
+log samplesize 4.0, trial 17, opt, train 0.0312
+log samplesize 4.0, trial 17, opt, test 0.1250
+log samplesize 4.0, trial 18, unif, gen features 0.1094
+log samplesize 4.0, trial 18, unif, train 0.0312
+log samplesize 4.0, trial 18, unif, test 0.0938
+log samplesize 4.0, trial 18, opt, gen features 0.2500
+log samplesize 4.0, trial 18, opt, train 0.0625
+log samplesize 4.0, trial 18, opt, test 0.0938
+log samplesize 4.0, trial 19, unif, gen features 0.1250
+log samplesize 4.0, trial 19, unif, train 0.0938
+log samplesize 4.0, trial 19, unif, test 0.0938
+log samplesize 4.0, trial 19, opt, gen features 0.2500
+log samplesize 4.0, trial 19, opt, train 0.0312
+log samplesize 4.0, trial 19, opt, test 0.5781
+log samplesize 4.2, trial 0, unif, gen features 0.1250
+log samplesize 4.2, trial 0, unif, train 0.0938
+log samplesize 4.2, trial 0, unif, test 0.0781
+log samplesize 4.2, trial 0, opt, gen features 0.2656
+log samplesize 4.2, trial 0, opt, train 0.1094
+log samplesize 4.2, trial 0, opt, test 0.0781
+log samplesize 4.2, trial 1, unif, gen features 0.1094
+log samplesize 4.2, trial 1, unif, train 0.0781
+log samplesize 4.2, trial 1, unif, test 0.0938
+log samplesize 4.2, trial 1, opt, gen features 0.2656
+log samplesize 4.2, trial 1, opt, train 0.0938
+log samplesize 4.2, trial 1, opt, test 0.0938
+log samplesize 4.2, trial 2, unif, gen features 0.1250
+log samplesize 4.2, trial 2, unif, train 0.0938
+log samplesize 4.2, trial 2, unif, test 0.0938
+log samplesize 4.2, trial 2, opt, gen features 0.2500
+log samplesize 4.2, trial 2, opt, train 0.1250
+log samplesize 4.2, trial 2, opt, test 0.0938
+log samplesize 4.2, trial 3, unif, gen features 0.1094
+log samplesize 4.2, trial 3, unif, train 0.0938
+log samplesize 4.2, trial 3, unif, test 0.0938
+log samplesize 4.2, trial 3, opt, gen features 0.2344
+log samplesize 4.2, trial 3, opt, train 0.1250
+log samplesize 4.2, trial 3, opt, test 0.0938
+log samplesize 4.2, trial 4, unif, gen features 0.1094
+log samplesize 4.2, trial 4, unif, train 0.1094
+log samplesize 4.2, trial 4, unif, test 0.0938
+log samplesize 4.2, trial 4, opt, gen features 0.2500
+log samplesize 4.2, trial 4, opt, train 0.1094
+log samplesize 4.2, trial 4, opt, test 0.0469
+log samplesize 4.2, trial 5, unif, gen features 0.1562
+log samplesize 4.2, trial 5, unif, train 0.1250
+log samplesize 4.2, trial 5, unif, test 0.0938
+log samplesize 4.2, trial 5, opt, gen features 0.2344
+log samplesize 4.2, trial 5, opt, train 0.1250
+log samplesize 4.2, trial 5, opt, test 0.0938
+log samplesize 4.2, trial 6, unif, gen features 0.1562
+log samplesize 4.2, trial 6, unif, train 0.0625
+log samplesize 4.2, trial 6, unif, test 0.0781
+log samplesize 4.2, trial 6, opt, gen features 0.2812
+log samplesize 4.2, trial 6, opt, train 0.0938
+log samplesize 4.2, trial 6, opt, test 0.1250
+log samplesize 4.2, trial 7, unif, gen features 0.0938
+log samplesize 4.2, trial 7, unif, train 0.1406
+log samplesize 4.2, trial 7, unif, test 0.0938
+log samplesize 4.2, trial 7, opt, gen features 0.2500
+log samplesize 4.2, trial 7, opt, train 0.1562
+log samplesize 4.2, trial 7, opt, test 0.0469
+log samplesize 4.2, trial 8, unif, gen features 0.1406
+log samplesize 4.2, trial 8, unif, train 0.0938
+log samplesize 4.2, trial 8, unif, test 0.0938
+log samplesize 4.2, trial 8, opt, gen features 0.2344
+log samplesize 4.2, trial 8, opt, train 0.1562
+log samplesize 4.2, trial 8, opt, test 0.0781
+log samplesize 4.2, trial 9, unif, gen features 0.1094
+log samplesize 4.2, trial 9, unif, train 0.0938
+log samplesize 4.2, trial 9, unif, test 0.0781
+log samplesize 4.2, trial 9, opt, gen features 0.2812
+log samplesize 4.2, trial 9, opt, train 0.0938
+log samplesize 4.2, trial 9, opt, test 0.0938
+log samplesize 4.2, trial 10, unif, gen features 0.1250
+log samplesize 4.2, trial 10, unif, train 0.1250
+log samplesize 4.2, trial 10, unif, test 0.0781
+log samplesize 4.2, trial 10, opt, gen features 0.2812
+log samplesize 4.2, trial 10, opt, train 0.1094
+log samplesize 4.2, trial 10, opt, test 0.0938
+log samplesize 4.2, trial 11, unif, gen features 0.0938
+log samplesize 4.2, trial 11, unif, train 0.1250
+log samplesize 4.2, trial 11, unif, test 0.0938
+log samplesize 4.2, trial 11, opt, gen features 0.2500
+log samplesize 4.2, trial 11, opt, train 0.1250
+log samplesize 4.2, trial 11, opt, test 0.0625
+log samplesize 4.2, trial 12, unif, gen features 0.1562
+log samplesize 4.2, trial 12, unif, train 0.0938
+log samplesize 4.2, trial 12, unif, test 0.0938
+log samplesize 4.2, trial 12, opt, gen features 0.3125
+log samplesize 4.2, trial 12, opt, train 0.0938
+log samplesize 4.2, trial 12, opt, test 0.0781
+log samplesize 4.2, trial 13, unif, gen features 0.1250
+log samplesize 4.2, trial 13, unif, train 0.0781
+log samplesize 4.2, trial 13, unif, test 0.0781
+log samplesize 4.2, trial 13, opt, gen features 0.2812
+log samplesize 4.2, trial 13, opt, train 0.0938
+log samplesize 4.2, trial 13, opt, test 0.0938
+log samplesize 4.2, trial 14, unif, gen features 0.1250
+log samplesize 4.2, trial 14, unif, train 0.1250
+log samplesize 4.2, trial 14, unif, test 0.0938
+log samplesize 4.2, trial 14, opt, gen features 0.2031
+log samplesize 4.2, trial 14, opt, train 0.0938
+log samplesize 4.2, trial 14, opt, test 0.0938
+log samplesize 4.2, trial 15, unif, gen features 0.1250
+log samplesize 4.2, trial 15, unif, train 0.1719
+log samplesize 4.2, trial 15, unif, test 0.0938
+log samplesize 4.2, trial 15, opt, gen features 0.2188
+log samplesize 4.2, trial 15, opt, train 0.0938
+log samplesize 4.2, trial 15, opt, test 0.0781
+log samplesize 4.2, trial 16, unif, gen features 0.1562
+log samplesize 4.2, trial 16, unif, train 0.1250
+log samplesize 4.2, trial 16, unif, test 0.0938
+log samplesize 4.2, trial 16, opt, gen features 0.2188
+log samplesize 4.2, trial 16, opt, train 0.0781
+log samplesize 4.2, trial 16, opt, test 0.0938
+log samplesize 4.2, trial 17, unif, gen features 0.1406
+log samplesize 4.2, trial 17, unif, train 0.0625
+log samplesize 4.2, trial 17, unif, test 0.0938
+log samplesize 4.2, trial 17, opt, gen features 0.2812
+log samplesize 4.2, trial 17, opt, train 0.1250
+log samplesize 4.2, trial 17, opt, test 0.0938
+log samplesize 4.2, trial 18, unif, gen features 0.1562
+log samplesize 4.2, trial 18, unif, train 0.1250
+log samplesize 4.2, trial 18, unif, test 0.0938
+log samplesize 4.2, trial 18, opt, gen features 0.2656
+log samplesize 4.2, trial 18, opt, train 0.0938
+log samplesize 4.2, trial 18, opt, test 0.0938
+log samplesize 4.2, trial 19, unif, gen features 0.1562
+log samplesize 4.2, trial 19, unif, train 0.0938
+log samplesize 4.2, trial 19, unif, test 0.1094
+log samplesize 4.2, trial 19, opt, gen features 0.2500
+log samplesize 4.2, trial 19, opt, train 0.0938
+log samplesize 4.2, trial 19, opt, test 0.5312
+log samplesize 4.4, trial 0, unif, gen features 0.1562
+log samplesize 4.4, trial 0, unif, train 0.2500
+log samplesize 4.4, trial 0, unif, test 0.0938
+log samplesize 4.4, trial 0, opt, gen features 0.3125
+log samplesize 4.4, trial 0, opt, train 0.2188
+log samplesize 4.4, trial 0, opt, test 0.0938
+log samplesize 4.4, trial 1, unif, gen features 0.1562
+log samplesize 4.4, trial 1, unif, train 0.2500
+log samplesize 4.4, trial 1, unif, test 0.0625
+log samplesize 4.4, trial 1, opt, gen features 0.3281
+log samplesize 4.4, trial 1, opt, train 0.2500
+log samplesize 4.4, trial 1, opt, test 0.0938
+log samplesize 4.4, trial 2, unif, gen features 0.1719
+log samplesize 4.4, trial 2, unif, train 0.2344
+log samplesize 4.4, trial 2, unif, test 0.0938
+log samplesize 4.4, trial 2, opt, gen features 0.3125
+log samplesize 4.4, trial 2, opt, train 0.2500
+log samplesize 4.4, trial 2, opt, test 0.0938
+log samplesize 4.4, trial 3, unif, gen features 0.1406
+log samplesize 4.4, trial 3, unif, train 0.2344
+log samplesize 4.4, trial 3, unif, test 0.0781
+log samplesize 4.4, trial 3, opt, gen features 0.3125
+log samplesize 4.4, trial 3, opt, train 0.2656
+log samplesize 4.4, trial 3, opt, test 0.0781
+log samplesize 4.4, trial 4, unif, gen features 0.1562
+log samplesize 4.4, trial 4, unif, train 0.2812
+log samplesize 4.4, trial 4, unif, test 0.0938
+log samplesize 4.4, trial 4, opt, gen features 0.2812
+log samplesize 4.4, trial 4, opt, train 0.1875
+log samplesize 4.4, trial 4, opt, test 0.0938
+log samplesize 4.4, trial 5, unif, gen features 0.1562
+log samplesize 4.4, trial 5, unif, train 0.2344
+log samplesize 4.4, trial 5, unif, test 0.0938
+log samplesize 4.4, trial 5, opt, gen features 0.2969
+log samplesize 4.4, trial 5, opt, train 0.2188
+log samplesize 4.4, trial 5, opt, test 0.0938
+log samplesize 4.4, trial 6, unif, gen features 0.1406
+log samplesize 4.4, trial 6, unif, train 0.2031
+log samplesize 4.4, trial 6, unif, test 0.0625
+log samplesize 4.4, trial 6, opt, gen features 0.3438
+log samplesize 4.4, trial 6, opt, train 0.2188
+log samplesize 4.4, trial 6, opt, test 0.1250
+log samplesize 4.4, trial 7, unif, gen features 0.1406
+log samplesize 4.4, trial 7, unif, train 0.2500
+log samplesize 4.4, trial 7, unif, test 0.0938
+log samplesize 4.4, trial 7, opt, gen features 0.3125
+log samplesize 4.4, trial 7, opt, train 0.2344
+log samplesize 4.4, trial 7, opt, test 0.0781
+log samplesize 4.4, trial 8, unif, gen features 0.1562
+log samplesize 4.4, trial 8, unif, train 0.2344
+log samplesize 4.4, trial 8, unif, test 0.0938
+log samplesize 4.4, trial 8, opt, gen features 0.3125
+log samplesize 4.4, trial 8, opt, train 0.2500
+log samplesize 4.4, trial 8, opt, test 0.0625
+log samplesize 4.4, trial 9, unif, gen features 0.1406
+log samplesize 4.4, trial 9, unif, train 0.1562
+log samplesize 4.4, trial 9, unif, test 0.0938
+log samplesize 4.4, trial 9, opt, gen features 0.3281
+log samplesize 4.4, trial 9, opt, train 0.1406
+log samplesize 4.4, trial 9, opt, test 0.0938
+log samplesize 4.4, trial 10, unif, gen features 0.1719
+log samplesize 4.4, trial 10, unif, train 0.2031
+log samplesize 4.4, trial 10, unif, test 0.0938
+log samplesize 4.4, trial 10, opt, gen features 0.2969
+log samplesize 4.4, trial 10, opt, train 0.1875
+log samplesize 4.4, trial 10, opt, test 0.0781
+log samplesize 4.4, trial 11, unif, gen features 0.1875
+log samplesize 4.4, trial 11, unif, train 0.2188
+log samplesize 4.4, trial 11, unif, test 0.0938
+log samplesize 4.4, trial 11, opt, gen features 0.3125
+log samplesize 4.4, trial 11, opt, train 0.2500
+log samplesize 4.4, trial 11, opt, test 0.0938
+log samplesize 4.4, trial 12, unif, gen features 0.1562
+log samplesize 4.4, trial 12, unif, train 0.2500
+log samplesize 4.4, trial 12, unif, test 0.0938
+log samplesize 4.4, trial 12, opt, gen features 0.2969
+log samplesize 4.4, trial 12, opt, train 0.2344
+log samplesize 4.4, trial 12, opt, test 0.0781
+log samplesize 4.4, trial 13, unif, gen features 0.1719
+log samplesize 4.4, trial 13, unif, train 0.2500
+log samplesize 4.4, trial 13, unif, test 0.0938
+log samplesize 4.4, trial 13, opt, gen features 0.3438
+log samplesize 4.4, trial 13, opt, train 0.2344
+log samplesize 4.4, trial 13, opt, test 0.0938
+log samplesize 4.4, trial 14, unif, gen features 0.1562
+log samplesize 4.4, trial 14, unif, train 0.2656
+log samplesize 4.4, trial 14, unif, test 0.0938
+log samplesize 4.4, trial 14, opt, gen features 0.3125
+log samplesize 4.4, trial 14, opt, train 0.1562
+log samplesize 4.4, trial 14, opt, test 0.0938
+log samplesize 4.4, trial 15, unif, gen features 0.1875
+log samplesize 4.4, trial 15, unif, train 0.1406
+log samplesize 4.4, trial 15, unif, test 0.0938
+log samplesize 4.4, trial 15, opt, gen features 0.3125
+log samplesize 4.4, trial 15, opt, train 0.2344
+log samplesize 4.4, trial 15, opt, test 0.0938
+log samplesize 4.4, trial 16, unif, gen features 0.1406
+log samplesize 4.4, trial 16, unif, train 0.2656
+log samplesize 4.4, trial 16, unif, test 0.0938
+log samplesize 4.4, trial 16, opt, gen features 0.2812
+log samplesize 4.4, trial 16, opt, train 0.2188
+log samplesize 4.4, trial 16, opt, test 0.0938
+log samplesize 4.4, trial 17, unif, gen features 0.1719
+log samplesize 4.4, trial 17, unif, train 0.2344
+log samplesize 4.4, trial 17, unif, test 0.0625
+log samplesize 4.4, trial 17, opt, gen features 0.3438
+log samplesize 4.4, trial 17, opt, train 0.2500
+log samplesize 4.4, trial 17, opt, test 0.0625
+log samplesize 4.4, trial 18, unif, gen features 0.1875
+log samplesize 4.4, trial 18, unif, train 0.2188
+log samplesize 4.4, trial 18, unif, test 0.0938
+log samplesize 4.4, trial 18, opt, gen features 0.2969
+log samplesize 4.4, trial 18, opt, train 0.2500
+log samplesize 4.4, trial 18, opt, test 0.0938
+log samplesize 4.4, trial 19, unif, gen features 0.1562
+log samplesize 4.4, trial 19, unif, train 0.2031
+log samplesize 4.4, trial 19, unif, test 0.0938
+log samplesize 4.4, trial 19, opt, gen features 0.3125
+log samplesize 4.4, trial 19, opt, train 0.2500
+log samplesize 4.4, trial 19, opt, test 0.5469
+log samplesize 4.6, trial 0, unif, gen features 0.1875
+log samplesize 4.6, trial 0, unif, train 0.3281
+log samplesize 4.6, trial 0, unif, test 0.0938
+log samplesize 4.6, trial 0, opt, gen features 0.3750
+log samplesize 4.6, trial 0, opt, train 0.3281
+log samplesize 4.6, trial 0, opt, test 0.0781
+log samplesize 4.6, trial 1, unif, gen features 0.1719
+log samplesize 4.6, trial 1, unif, train 0.3438
+log samplesize 4.6, trial 1, unif, test 0.0781
+log samplesize 4.6, trial 1, opt, gen features 0.3750
+log samplesize 4.6, trial 1, opt, train 0.3438
+log samplesize 4.6, trial 1, opt, test 0.0781
+log samplesize 4.6, trial 2, unif, gen features 0.1875
+log samplesize 4.6, trial 2, unif, train 0.3438
+log samplesize 4.6, trial 2, unif, test 0.0938
+log samplesize 4.6, trial 2, opt, gen features 0.3438
+log samplesize 4.6, trial 2, opt, train 0.3125
+log samplesize 4.6, trial 2, opt, test 0.0781
+log samplesize 4.6, trial 3, unif, gen features 0.1875
+log samplesize 4.6, trial 3, unif, train 0.3125
+log samplesize 4.6, trial 3, unif, test 0.0781
+log samplesize 4.6, trial 3, opt, gen features 0.3438
+log samplesize 4.6, trial 3, opt, train 0.3281
+log samplesize 4.6, trial 3, opt, test 0.0938
+log samplesize 4.6, trial 4, unif, gen features 0.1875
+log samplesize 4.6, trial 4, unif, train 0.3281
+log samplesize 4.6, trial 4, unif, test 0.0938
+log samplesize 4.6, trial 4, opt, gen features 0.3750
+log samplesize 4.6, trial 4, opt, train 0.3125
+log samplesize 4.6, trial 4, opt, test 0.0938
+log samplesize 4.6, trial 5, unif, gen features 0.1719
+log samplesize 4.6, trial 5, unif, train 0.3438
+log samplesize 4.6, trial 5, unif, test 0.0938
+log samplesize 4.6, trial 5, opt, gen features 0.3750
+log samplesize 4.6, trial 5, opt, train 0.2812
+log samplesize 4.6, trial 5, opt, test 0.1094
+log samplesize 4.6, trial 6, unif, gen features 0.2188
+log samplesize 4.6, trial 6, unif, train 0.3125
+log samplesize 4.6, trial 6, unif, test 0.1094
+log samplesize 4.6, trial 6, opt, gen features 0.3594
+log samplesize 4.6, trial 6, opt, train 0.2969
+log samplesize 4.6, trial 6, opt, test 0.0625
+log samplesize 4.6, trial 7, unif, gen features 0.2188
+log samplesize 4.6, trial 7, unif, train 0.3125
+log samplesize 4.6, trial 7, unif, test 0.0781
+log samplesize 4.6, trial 7, opt, gen features 0.3594
+log samplesize 4.6, trial 7, opt, train 0.3125
+log samplesize 4.6, trial 7, opt, test 0.0938
+log samplesize 4.6, trial 8, unif, gen features 0.1875
+log samplesize 4.6, trial 8, unif, train 0.3438
+log samplesize 4.6, trial 8, unif, test 0.0625
+log samplesize 4.6, trial 8, opt, gen features 0.3594
+log samplesize 4.6, trial 8, opt, train 0.3438
+log samplesize 4.6, trial 8, opt, test 0.0938
+log samplesize 4.6, trial 9, unif, gen features 0.1719
+log samplesize 4.6, trial 9, unif, train 0.3594
+log samplesize 4.6, trial 9, unif, test 0.0938
+log samplesize 4.6, trial 9, opt, gen features 0.3594
+log samplesize 4.6, trial 9, opt, train 0.2969
+log samplesize 4.6, trial 9, opt, test 0.0938
+log samplesize 4.6, trial 10, unif, gen features 0.1875
+log samplesize 4.6, trial 10, unif, train 0.3594
+log samplesize 4.6, trial 10, unif, test 0.0938
+log samplesize 4.6, trial 10, opt, gen features 0.3594
+log samplesize 4.6, trial 10, opt, train 0.2812
+log samplesize 4.6, trial 10, opt, test 0.0625
+log samplesize 4.6, trial 11, unif, gen features 0.2031
+log samplesize 4.6, trial 11, unif, train 0.3281
+log samplesize 4.6, trial 11, unif, test 0.0781
+log samplesize 4.6, trial 11, opt, gen features 0.3750
+log samplesize 4.6, trial 11, opt, train 0.3281
+log samplesize 4.6, trial 11, opt, test 0.0781
+log samplesize 4.6, trial 12, unif, gen features 0.2188
+log samplesize 4.6, trial 12, unif, train 0.3125
+log samplesize 4.6, trial 12, unif, test 0.0781
+log samplesize 4.6, trial 12, opt, gen features 0.3594
+log samplesize 4.6, trial 12, opt, train 0.2969
+log samplesize 4.6, trial 12, opt, test 0.0938
+log samplesize 4.6, trial 13, unif, gen features 0.1875
+log samplesize 4.6, trial 13, unif, train 0.3438
+log samplesize 4.6, trial 13, unif, test 0.0938
+log samplesize 4.6, trial 13, opt, gen features 0.3438
+log samplesize 4.6, trial 13, opt, train 0.2969
+log samplesize 4.6, trial 13, opt, test 0.0781
+log samplesize 4.6, trial 14, unif, gen features 0.2188
+log samplesize 4.6, trial 14, unif, train 0.3125
+log samplesize 4.6, trial 14, unif, test 0.0938
+log samplesize 4.6, trial 14, opt, gen features 0.3750
+log samplesize 4.6, trial 14, opt, train 0.3125
+log samplesize 4.6, trial 14, opt, test 0.0781
+log samplesize 4.6, trial 15, unif, gen features 0.2031
+log samplesize 4.6, trial 15, unif, train 0.3281
+log samplesize 4.6, trial 15, unif, test 0.0938
+log samplesize 4.6, trial 15, opt, gen features 0.3750
+log samplesize 4.6, trial 15, opt, train 0.3125
+log samplesize 4.6, trial 15, opt, test 0.0938
+log samplesize 4.6, trial 16, unif, gen features 0.2188
+log samplesize 4.6, trial 16, unif, train 0.3281
+log samplesize 4.6, trial 16, unif, test 0.0625
+log samplesize 4.6, trial 16, opt, gen features 0.3594
+log samplesize 4.6, trial 16, opt, train 0.2969
+log samplesize 4.6, trial 16, opt, test 0.0781
+log samplesize 4.6, trial 17, unif, gen features 0.1562
+log samplesize 4.6, trial 17, unif, train 0.3281
+log samplesize 4.6, trial 17, unif, test 0.0781
+log samplesize 4.6, trial 17, opt, gen features 0.3906
+log samplesize 4.6, trial 17, opt, train 0.2812
+log samplesize 4.6, trial 17, opt, test 0.0938
+log samplesize 4.6, trial 18, unif, gen features 0.2188
+log samplesize 4.6, trial 18, unif, train 0.3281
+log samplesize 4.6, trial 18, unif, test 0.0938
+log samplesize 4.6, trial 18, opt, gen features 0.3594
+log samplesize 4.6, trial 18, opt, train 0.2969
+log samplesize 4.6, trial 18, opt, test 0.0781
+log samplesize 4.6, trial 19, unif, gen features 0.2188
+log samplesize 4.6, trial 19, unif, train 0.3125
+log samplesize 4.6, trial 19, unif, test 0.0938
+log samplesize 4.6, trial 19, opt, gen features 0.3594
+log samplesize 4.6, trial 19, opt, train 0.2812
+log samplesize 4.6, trial 19, opt, test 0.5781
+log samplesize 4.8, trial 0, unif, gen features 0.1875
+log samplesize 4.8, trial 0, unif, train 0.3438
+log samplesize 4.8, trial 0, unif, test 0.0938
+log samplesize 4.8, trial 0, opt, gen features 0.4062
+log samplesize 4.8, trial 0, opt, train 0.3125
+log samplesize 4.8, trial 0, opt, test 0.0781
+log samplesize 4.8, trial 1, unif, gen features 0.2031
+log samplesize 4.8, trial 1, unif, train 0.3438
+log samplesize 4.8, trial 1, unif, test 0.0938
+log samplesize 4.8, trial 1, opt, gen features 0.4062
+log samplesize 4.8, trial 1, opt, train 0.2969
+log samplesize 4.8, trial 1, opt, test 0.0625
+log samplesize 4.8, trial 2, unif, gen features 0.2188
+log samplesize 4.8, trial 2, unif, train 0.3125
+log samplesize 4.8, trial 2, unif, test 0.0781
+log samplesize 4.8, trial 2, opt, gen features 0.4062
+log samplesize 4.8, trial 2, opt, train 0.3438
+log samplesize 4.8, trial 2, opt, test 0.0781
+log samplesize 4.8, trial 3, unif, gen features 0.1875
+log samplesize 4.8, trial 3, unif, train 0.3438
+log samplesize 4.8, trial 3, unif, test 0.0938
+log samplesize 4.8, trial 3, opt, gen features 0.4062
+log samplesize 4.8, trial 3, opt, train 0.2812
+log samplesize 4.8, trial 3, opt, test 0.0781
+log samplesize 4.8, trial 4, unif, gen features 0.2031
+log samplesize 4.8, trial 4, unif, train 0.3594
+log samplesize 4.8, trial 4, unif, test 0.0781
+log samplesize 4.8, trial 4, opt, gen features 0.4219
+log samplesize 4.8, trial 4, opt, train 0.3125
+log samplesize 4.8, trial 4, opt, test 0.0938
+log samplesize 4.8, trial 5, unif, gen features 0.2188
+log samplesize 4.8, trial 5, unif, train 0.3125
+log samplesize 4.8, trial 5, unif, test 0.0938
+log samplesize 4.8, trial 5, opt, gen features 0.3750
+log samplesize 4.8, trial 5, opt, train 0.3125
+log samplesize 4.8, trial 5, opt, test 0.1094
+log samplesize 4.8, trial 6, unif, gen features 0.2188
+log samplesize 4.8, trial 6, unif, train 0.3281
+log samplesize 4.8, trial 6, unif, test 0.0781
+log samplesize 4.8, trial 6, opt, gen features 0.4062
+log samplesize 4.8, trial 6, opt, train 0.2969
+log samplesize 4.8, trial 6, opt, test 0.0625
+log samplesize 4.8, trial 7, unif, gen features 0.2031
+log samplesize 4.8, trial 7, unif, train 0.3281
+log samplesize 4.8, trial 7, unif, test 0.0781
+log samplesize 4.8, trial 7, opt, gen features 0.3906
+log samplesize 4.8, trial 7, opt, train 0.2969
+log samplesize 4.8, trial 7, opt, test 0.1094
+log samplesize 4.8, trial 8, unif, gen features 0.2188
+log samplesize 4.8, trial 8, unif, train 0.3281
+log samplesize 4.8, trial 8, unif, test 0.0781
+log samplesize 4.8, trial 8, opt, gen features 0.4062
+log samplesize 4.8, trial 8, opt, train 0.3125
+log samplesize 4.8, trial 8, opt, test 0.0781
+log samplesize 4.8, trial 9, unif, gen features 0.2188
+log samplesize 4.8, trial 9, unif, train 0.3125
+log samplesize 4.8, trial 9, unif, test 0.0781
+log samplesize 4.8, trial 9, opt, gen features 0.4062
+log samplesize 4.8, trial 9, opt, train 0.2812
+log samplesize 4.8, trial 9, opt, test 0.0625
+log samplesize 4.8, trial 10, unif, gen features 0.2500
+log samplesize 4.8, trial 10, unif, train 0.3281
+log samplesize 4.8, trial 10, unif, test 0.0781
+log samplesize 4.8, trial 10, opt, gen features 0.3906
+log samplesize 4.8, trial 10, opt, train 0.3125
+log samplesize 4.8, trial 10, opt, test 0.0938
+log samplesize 4.8, trial 11, unif, gen features 0.2031
+log samplesize 4.8, trial 11, unif, train 0.3125
+log samplesize 4.8, trial 11, unif, test 0.0938
+log samplesize 4.8, trial 11, opt, gen features 0.3750
+log samplesize 4.8, trial 11, opt, train 0.3125
+log samplesize 4.8, trial 11, opt, test 0.0938
+log samplesize 4.8, trial 12, unif, gen features 0.1875
+log samplesize 4.8, trial 12, unif, train 0.3438
+log samplesize 4.8, trial 12, unif, test 0.0625
+log samplesize 4.8, trial 12, opt, gen features 0.4062
+log samplesize 4.8, trial 12, opt, train 0.3438
+log samplesize 4.8, trial 12, opt, test 0.0938
+log samplesize 4.8, trial 13, unif, gen features 0.1875
+log samplesize 4.8, trial 13, unif, train 0.3594
+log samplesize 4.8, trial 13, unif, test 0.0625
+log samplesize 4.8, trial 13, opt, gen features 0.4062
+log samplesize 4.8, trial 13, opt, train 0.3438
+log samplesize 4.8, trial 13, opt, test 0.0938
+log samplesize 4.8, trial 14, unif, gen features 0.1875
+log samplesize 4.8, trial 14, unif, train 0.3594
+log samplesize 4.8, trial 14, unif, test 0.0938
+log samplesize 4.8, trial 14, opt, gen features 0.4375
+log samplesize 4.8, trial 14, opt, train 0.3281
+log samplesize 4.8, trial 14, opt, test 0.0781
+log samplesize 4.8, trial 15, unif, gen features 0.2188
+log samplesize 4.8, trial 15, unif, train 0.3438
+log samplesize 4.8, trial 15, unif, test 0.0781
+log samplesize 4.8, trial 15, opt, gen features 0.4062
+log samplesize 4.8, trial 15, opt, train 0.3281
+log samplesize 4.8, trial 15, opt, test 0.0781
+log samplesize 4.8, trial 16, unif, gen features 0.2031
+log samplesize 4.8, trial 16, unif, train 0.3281
+log samplesize 4.8, trial 16, unif, test 0.0938
+log samplesize 4.8, trial 16, opt, gen features 0.4062
+log samplesize 4.8, trial 16, opt, train 0.3438
+log samplesize 4.8, trial 16, opt, test 0.0938
+log samplesize 4.8, trial 17, unif, gen features 0.2031
+log samplesize 4.8, trial 17, unif, train 0.3281
+log samplesize 4.8, trial 17, unif, test 0.0938
+log samplesize 4.8, trial 17, opt, gen features 0.3906
+log samplesize 4.8, trial 17, opt, train 0.3281
+log samplesize 4.8, trial 17, opt, test 0.0938
+log samplesize 4.8, trial 18, unif, gen features 0.1875
+log samplesize 4.8, trial 18, unif, train 0.3281
+log samplesize 4.8, trial 18, unif, test 0.0938
+log samplesize 4.8, trial 18, opt, gen features 0.3594
+log samplesize 4.8, trial 18, opt, train 0.2969
+log samplesize 4.8, trial 18, opt, test 0.0781
+log samplesize 4.8, trial 19, unif, gen features 0.2188
+log samplesize 4.8, trial 19, unif, train 0.3438
+log samplesize 4.8, trial 19, unif, test 0.0781
+log samplesize 4.8, trial 19, opt, gen features 0.4062
+log samplesize 4.8, trial 19, opt, train 0.3281
+log samplesize 4.8, trial 19, opt, test 0.5625
+log samplesize 5.0, trial 0, unif, gen features 0.2500
+log samplesize 5.0, trial 0, unif, train 0.3438
+log samplesize 5.0, trial 0, unif, test 0.0938
+log samplesize 5.0, trial 0, opt, gen features 0.4531
+log samplesize 5.0, trial 0, opt, train 0.3438
+log samplesize 5.0, trial 0, opt, test 0.1094
+log samplesize 5.0, trial 1, unif, gen features 0.2656
+log samplesize 5.0, trial 1, unif, train 0.3281
+log samplesize 5.0, trial 1, unif, test 0.0938
+log samplesize 5.0, trial 1, opt, gen features 0.5000
+log samplesize 5.0, trial 1, opt, train 0.3594
+log samplesize 5.0, trial 1, opt, test 0.0938
+log samplesize 5.0, trial 2, unif, gen features 0.2812
+log samplesize 5.0, trial 2, unif, train 0.3438
+log samplesize 5.0, trial 2, unif, test 0.0938
+log samplesize 5.0, trial 2, opt, gen features 0.4375
+log samplesize 5.0, trial 2, opt, train 0.3594
+log samplesize 5.0, trial 2, opt, test 0.0781
+log samplesize 5.0, trial 3, unif, gen features 0.2656
+log samplesize 5.0, trial 3, unif, train 0.3438
+log samplesize 5.0, trial 3, unif, test 0.0938
+log samplesize 5.0, trial 3, opt, gen features 0.4375
+log samplesize 5.0, trial 3, opt, train 0.3594
+log samplesize 5.0, trial 3, opt, test 0.0781
+log samplesize 5.0, trial 4, unif, gen features 0.2812
+log samplesize 5.0, trial 4, unif, train 0.3438
+log samplesize 5.0, trial 4, unif, test 0.1094
+log samplesize 5.0, trial 4, opt, gen features 0.4531
+log samplesize 5.0, trial 4, opt, train 0.3438
+log samplesize 5.0, trial 4, opt, test 0.1094
+log samplesize 5.0, trial 5, unif, gen features 0.2812
+log samplesize 5.0, trial 5, unif, train 0.3281
+log samplesize 5.0, trial 5, unif, test 0.0781
+log samplesize 5.0, trial 5, opt, gen features 0.4844
+log samplesize 5.0, trial 5, opt, train 0.3594
+log samplesize 5.0, trial 5, opt, test 0.0781
+log samplesize 5.0, trial 6, unif, gen features 0.2812
+log samplesize 5.0, trial 6, unif, train 0.3438
+log samplesize 5.0, trial 6, unif, test 0.0938
+log samplesize 5.0, trial 6, opt, gen features 0.4531
+log samplesize 5.0, trial 6, opt, train 0.3438
+log samplesize 5.0, trial 6, opt, test 0.0781
+log samplesize 5.0, trial 7, unif, gen features 0.2812
+log samplesize 5.0, trial 7, unif, train 0.3750
+log samplesize 5.0, trial 7, unif, test 0.0938
+log samplesize 5.0, trial 7, opt, gen features 0.4531
+log samplesize 5.0, trial 7, opt, train 0.3594
+log samplesize 5.0, trial 7, opt, test 0.0938
+log samplesize 5.0, trial 8, unif, gen features 0.2812
+log samplesize 5.0, trial 8, unif, train 0.3750
+log samplesize 5.0, trial 8, unif, test 0.0938
+log samplesize 5.0, trial 8, opt, gen features 0.4688
+log samplesize 5.0, trial 8, opt, train 0.3594
+log samplesize 5.0, trial 8, opt, test 0.0938
+log samplesize 5.0, trial 9, unif, gen features 0.2656
+log samplesize 5.0, trial 9, unif, train 0.3594
+log samplesize 5.0, trial 9, unif, test 0.0469
+log samplesize 5.0, trial 9, opt, gen features 0.5156
+log samplesize 5.0, trial 9, opt, train 0.3438
+log samplesize 5.0, trial 9, opt, test 0.0938
+log samplesize 5.0, trial 10, unif, gen features 0.2656
+log samplesize 5.0, trial 10, unif, train 0.3594
+log samplesize 5.0, trial 10, unif, test 0.0625
+log samplesize 5.0, trial 10, opt, gen features 0.5156
+log samplesize 5.0, trial 10, opt, train 0.3438
+log samplesize 5.0, trial 10, opt, test 0.0938
+log samplesize 5.0, trial 11, unif, gen features 0.2500
+log samplesize 5.0, trial 11, unif, train 0.3125
+log samplesize 5.0, trial 11, unif, test 0.0625
+log samplesize 5.0, trial 11, opt, gen features 0.4688
+log samplesize 5.0, trial 11, opt, train 0.3438
+log samplesize 5.0, trial 11, opt, test 0.1094
+log samplesize 5.0, trial 12, unif, gen features 0.2500
+log samplesize 5.0, trial 12, unif, train 0.3750
+log samplesize 5.0, trial 12, unif, test 0.1094
+log samplesize 5.0, trial 12, opt, gen features 0.4531
+log samplesize 5.0, trial 12, opt, train 0.3438
+log samplesize 5.0, trial 12, opt, test 0.0781
+log samplesize 5.0, trial 13, unif, gen features 0.3125
+log samplesize 5.0, trial 13, unif, train 0.3594
+log samplesize 5.0, trial 13, unif, test 0.1094
+log samplesize 5.0, trial 13, opt, gen features 0.5000
+log samplesize 5.0, trial 13, opt, train 0.3281
+log samplesize 5.0, trial 13, opt, test 0.0938
+log samplesize 5.0, trial 14, unif, gen features 0.2812
+log samplesize 5.0, trial 14, unif, train 0.3750
+log samplesize 5.0, trial 14, unif, test 0.0938
+log samplesize 5.0, trial 14, opt, gen features 0.5000
+log samplesize 5.0, trial 14, opt, train 0.3281
+log samplesize 5.0, trial 14, opt, test 0.0938
+log samplesize 5.0, trial 15, unif, gen features 0.2344
+log samplesize 5.0, trial 15, unif, train 0.3594
+log samplesize 5.0, trial 15, unif, test 0.1094
+log samplesize 5.0, trial 15, opt, gen features 0.4531
+log samplesize 5.0, trial 15, opt, train 0.3594
+log samplesize 5.0, trial 15, opt, test 0.0938
+log samplesize 5.0, trial 16, unif, gen features 0.2500
+log samplesize 5.0, trial 16, unif, train 0.3438
+log samplesize 5.0, trial 16, unif, test 0.0938
+log samplesize 5.0, trial 16, opt, gen features 0.4688
+log samplesize 5.0, trial 16, opt, train 0.3594
+log samplesize 5.0, trial 16, opt, test 0.0469
+log samplesize 5.0, trial 17, unif, gen features 0.3125
+log samplesize 5.0, trial 17, unif, train 0.3438
+log samplesize 5.0, trial 17, unif, test 0.0625
+log samplesize 5.0, trial 17, opt, gen features 0.5156
+log samplesize 5.0, trial 17, opt, train 0.3281
+log samplesize 5.0, trial 17, opt, test 0.0938
+log samplesize 5.0, trial 18, unif, gen features 0.2500
+log samplesize 5.0, trial 18, unif, train 0.3906
+log samplesize 5.0, trial 18, unif, test 0.0938
+log samplesize 5.0, trial 18, opt, gen features 0.4688
+log samplesize 5.0, trial 18, opt, train 0.3594
+log samplesize 5.0, trial 18, opt, test 0.1094
+log samplesize 5.0, trial 19, unif, gen features 0.2500
+log samplesize 5.0, trial 19, unif, train 0.3906
+log samplesize 5.0, trial 19, unif, test 0.0625
+log samplesize 5.0, trial 19, opt, gen features 0.5156
+log samplesize 5.0, trial 19, opt, train 0.3438
+log samplesize 5.0, trial 19, opt, test 0.5625
+log samplesize 5.2, trial 0, unif, gen features 0.3438
+log samplesize 5.2, trial 0, unif, train 0.4062
+log samplesize 5.2, trial 0, unif, test 0.0938
+log samplesize 5.2, trial 0, opt, gen features 0.5938
+log samplesize 5.2, trial 0, opt, train 0.3281
+log samplesize 5.2, trial 0, opt, test 0.0781
+log samplesize 5.2, trial 1, unif, gen features 0.3750
+log samplesize 5.2, trial 1, unif, train 0.3750
+log samplesize 5.2, trial 1, unif, test 0.0781
+log samplesize 5.2, trial 1, opt, gen features 0.5938
+log samplesize 5.2, trial 1, opt, train 0.3594
+log samplesize 5.2, trial 1, opt, test 0.0938
+log samplesize 5.2, trial 2, unif, gen features 0.3281
+log samplesize 5.2, trial 2, unif, train 0.3750
+log samplesize 5.2, trial 2, unif, test 0.0781
+log samplesize 5.2, trial 2, opt, gen features 0.6406
+log samplesize 5.2, trial 2, opt, train 0.3438
+log samplesize 5.2, trial 2, opt, test 0.0938
+log samplesize 5.2, trial 3, unif, gen features 0.3281
+log samplesize 5.2, trial 3, unif, train 0.3750
+log samplesize 5.2, trial 3, unif, test 0.0938
+log samplesize 5.2, trial 3, opt, gen features 0.6094
+log samplesize 5.2, trial 3, opt, train 0.3438
+log samplesize 5.2, trial 3, opt, test 0.0938
+log samplesize 5.2, trial 4, unif, gen features 0.3438
+log samplesize 5.2, trial 4, unif, train 0.3594
+log samplesize 5.2, trial 4, unif, test 0.0781
+log samplesize 5.2, trial 4, opt, gen features 0.6562
+log samplesize 5.2, trial 4, opt, train 0.3750
+log samplesize 5.2, trial 4, opt, test 0.0938
+log samplesize 5.2, trial 5, unif, gen features 0.3594
+log samplesize 5.2, trial 5, unif, train 0.4062
+log samplesize 5.2, trial 5, unif, test 0.0938
+log samplesize 5.2, trial 5, opt, gen features 0.5781
+log samplesize 5.2, trial 5, opt, train 0.3594
+log samplesize 5.2, trial 5, opt, test 0.0938
+log samplesize 5.2, trial 6, unif, gen features 0.3125
+log samplesize 5.2, trial 6, unif, train 0.3594
+log samplesize 5.2, trial 6, unif, test 0.0781
+log samplesize 5.2, trial 6, opt, gen features 0.5938
+log samplesize 5.2, trial 6, opt, train 0.3438
+log samplesize 5.2, trial 6, opt, test 0.0938
+log samplesize 5.2, trial 7, unif, gen features 0.3594
+log samplesize 5.2, trial 7, unif, train 0.3750
+log samplesize 5.2, trial 7, unif, test 0.0781
+log samplesize 5.2, trial 7, opt, gen features 0.6562
+log samplesize 5.2, trial 7, opt, train 0.3594
+log samplesize 5.2, trial 7, opt, test 0.0938
+log samplesize 5.2, trial 8, unif, gen features 0.3594
+log samplesize 5.2, trial 8, unif, train 0.3750
+log samplesize 5.2, trial 8, unif, test 0.0938
+log samplesize 5.2, trial 8, opt, gen features 0.5938
+log samplesize 5.2, trial 8, opt, train 0.3438
+log samplesize 5.2, trial 8, opt, test 0.0938
+log samplesize 5.2, trial 9, unif, gen features 0.3594
+log samplesize 5.2, trial 9, unif, train 0.3906
+log samplesize 5.2, trial 9, unif, test 0.0938
+log samplesize 5.2, trial 9, opt, gen features 0.6250
+log samplesize 5.2, trial 9, opt, train 0.3438
+log samplesize 5.2, trial 9, opt, test 0.0938
+log samplesize 5.2, trial 10, unif, gen features 0.3750
+log samplesize 5.2, trial 10, unif, train 0.3594
+log samplesize 5.2, trial 10, unif, test 0.1094
+log samplesize 5.2, trial 10, opt, gen features 0.5938
+log samplesize 5.2, trial 10, opt, train 0.3438
+log samplesize 5.2, trial 10, opt, test 0.0625
+log samplesize 5.2, trial 11, unif, gen features 0.3750
+log samplesize 5.2, trial 11, unif, train 0.3594
+log samplesize 5.2, trial 11, unif, test 0.0781
+log samplesize 5.2, trial 11, opt, gen features 0.6406
+log samplesize 5.2, trial 11, opt, train 0.3750
+log samplesize 5.2, trial 11, opt, test 0.0938
+log samplesize 5.2, trial 12, unif, gen features 0.3281
+log samplesize 5.2, trial 12, unif, train 0.3906
+log samplesize 5.2, trial 12, unif, test 0.0938
+log samplesize 5.2, trial 12, opt, gen features 0.6094
+log samplesize 5.2, trial 12, opt, train 0.3594
+log samplesize 5.2, trial 12, opt, test 0.0781
+log samplesize 5.2, trial 13, unif, gen features 0.3594
+log samplesize 5.2, trial 13, unif, train 0.3906
+log samplesize 5.2, trial 13, unif, test 0.0938
+log samplesize 5.2, trial 13, opt, gen features 0.5781
+log samplesize 5.2, trial 13, opt, train 0.3438
+log samplesize 5.2, trial 13, opt, test 0.0938
+log samplesize 5.2, trial 14, unif, gen features 0.3594
+log samplesize 5.2, trial 14, unif, train 0.3750
+log samplesize 5.2, trial 14, unif, test 0.0781
+log samplesize 5.2, trial 14, opt, gen features 0.6250
+log samplesize 5.2, trial 14, opt, train 0.3594
+log samplesize 5.2, trial 14, opt, test 0.1094
+log samplesize 5.2, trial 15, unif, gen features 0.3125
+log samplesize 5.2, trial 15, unif, train 0.3750
+log samplesize 5.2, trial 15, unif, test 0.0781
+log samplesize 5.2, trial 15, opt, gen features 0.6719
+log samplesize 5.2, trial 15, opt, train 0.3594
+log samplesize 5.2, trial 15, opt, test 0.0781
+log samplesize 5.2, trial 16, unif, gen features 0.4062
+log samplesize 5.2, trial 16, unif, train 0.3750
+log samplesize 5.2, trial 16, unif, test 0.0781
+log samplesize 5.2, trial 16, opt, gen features 0.5781
+log samplesize 5.2, trial 16, opt, train 0.3281
+log samplesize 5.2, trial 16, opt, test 0.0625
+log samplesize 5.2, trial 17, unif, gen features 0.4062
+log samplesize 5.2, trial 17, unif, train 0.3750
+log samplesize 5.2, trial 17, unif, test 0.0625
+log samplesize 5.2, trial 17, opt, gen features 0.6406
+log samplesize 5.2, trial 17, opt, train 0.3594
+log samplesize 5.2, trial 17, opt, test 0.0781
+log samplesize 5.2, trial 18, unif, gen features 0.3750
+log samplesize 5.2, trial 18, unif, train 0.3594
+log samplesize 5.2, trial 18, unif, test 0.0781
+log samplesize 5.2, trial 18, opt, gen features 0.5781
+log samplesize 5.2, trial 18, opt, train 0.3594
+log samplesize 5.2, trial 18, opt, test 0.0781
+log samplesize 5.2, trial 19, unif, gen features 0.3281
+log samplesize 5.2, trial 19, unif, train 0.3750
+log samplesize 5.2, trial 19, unif, test 0.0781
+log samplesize 5.2, trial 19, opt, gen features 0.6250
+log samplesize 5.2, trial 19, opt, train 0.3438
+log samplesize 5.2, trial 19, opt, test 0.5781
+log samplesize 5.4, trial 0, unif, gen features 0.4219
+log samplesize 5.4, trial 0, unif, train 0.3906
+log samplesize 5.4, trial 0, unif, test 0.0938
+log samplesize 5.4, trial 0, opt, gen features 0.6875
+log samplesize 5.4, trial 0, opt, train 0.3438
+log samplesize 5.4, trial 0, opt, test 0.0938
+log samplesize 5.4, trial 1, unif, gen features 0.3906
+log samplesize 5.4, trial 1, unif, train 0.3750
+log samplesize 5.4, trial 1, unif, test 0.0938
+log samplesize 5.4, trial 1, opt, gen features 0.7344
+log samplesize 5.4, trial 1, opt, train 0.3594
+log samplesize 5.4, trial 1, opt, test 0.0938
+log samplesize 5.4, trial 2, unif, gen features 0.4531
+log samplesize 5.4, trial 2, unif, train 0.3594
+log samplesize 5.4, trial 2, unif, test 0.0938
+log samplesize 5.4, trial 2, opt, gen features 0.6875
+log samplesize 5.4, trial 2, opt, train 0.3438
+log samplesize 5.4, trial 2, opt, test 0.0938
+log samplesize 5.4, trial 3, unif, gen features 0.3906
+log samplesize 5.4, trial 3, unif, train 0.3750
+log samplesize 5.4, trial 3, unif, test 0.0938
+log samplesize 5.4, trial 3, opt, gen features 0.7500
+log samplesize 5.4, trial 3, opt, train 0.3594
+log samplesize 5.4, trial 3, opt, test 0.0781
+log samplesize 5.4, trial 4, unif, gen features 0.4219
+log samplesize 5.4, trial 4, unif, train 0.3750
+log samplesize 5.4, trial 4, unif, test 0.1094
+log samplesize 5.4, trial 4, opt, gen features 0.6875
+log samplesize 5.4, trial 4, opt, train 0.3750
+log samplesize 5.4, trial 4, opt, test 0.0938
+log samplesize 5.4, trial 5, unif, gen features 0.4219
+log samplesize 5.4, trial 5, unif, train 0.3906
+log samplesize 5.4, trial 5, unif, test 0.0625
+log samplesize 5.4, trial 5, opt, gen features 0.8125
+log samplesize 5.4, trial 5, opt, train 0.2969
+log samplesize 5.4, trial 5, opt, test 0.0938
+log samplesize 5.4, trial 6, unif, gen features 0.4688
+log samplesize 5.4, trial 6, unif, train 0.3594
+log samplesize 5.4, trial 6, unif, test 0.0781
+log samplesize 5.4, trial 6, opt, gen features 0.7656
+log samplesize 5.4, trial 6, opt, train 0.3594
+log samplesize 5.4, trial 6, opt, test 0.0938
+log samplesize 5.4, trial 7, unif, gen features 0.4688
+log samplesize 5.4, trial 7, unif, train 0.3594
+log samplesize 5.4, trial 7, unif, test 0.0625
+log samplesize 5.4, trial 7, opt, gen features 0.7344
+log samplesize 5.4, trial 7, opt, train 0.3125
+log samplesize 5.4, trial 7, opt, test 0.0938
+log samplesize 5.4, trial 8, unif, gen features 0.4062
+log samplesize 5.4, trial 8, unif, train 0.3438
+log samplesize 5.4, trial 8, unif, test 0.0781
+log samplesize 5.4, trial 8, opt, gen features 0.7969
+log samplesize 5.4, trial 8, opt, train 0.3438
+log samplesize 5.4, trial 8, opt, test 0.0938
+log samplesize 5.4, trial 9, unif, gen features 0.4688
+log samplesize 5.4, trial 9, unif, train 0.3750
+log samplesize 5.4, trial 9, unif, test 0.0938
+log samplesize 5.4, trial 9, opt, gen features 0.7656
+log samplesize 5.4, trial 9, opt, train 0.3281
+log samplesize 5.4, trial 9, opt, test 0.0781
+log samplesize 5.4, trial 10, unif, gen features 0.4375
+log samplesize 5.4, trial 10, unif, train 0.3750
+log samplesize 5.4, trial 10, unif, test 0.0938
+log samplesize 5.4, trial 10, opt, gen features 0.8125
+log samplesize 5.4, trial 10, opt, train 0.3281
+log samplesize 5.4, trial 10, opt, test 0.0938
+log samplesize 5.4, trial 11, unif, gen features 0.4531
+log samplesize 5.4, trial 11, unif, train 0.3906
+log samplesize 5.4, trial 11, unif, test 0.0938
+log samplesize 5.4, trial 11, opt, gen features 0.7500
+log samplesize 5.4, trial 11, opt, train 0.3594
+log samplesize 5.4, trial 11, opt, test 0.1094
+log samplesize 5.4, trial 12, unif, gen features 0.4688
+log samplesize 5.4, trial 12, unif, train 0.3906
+log samplesize 5.4, trial 12, unif, test 0.0781
+log samplesize 5.4, trial 12, opt, gen features 0.7188
+log samplesize 5.4, trial 12, opt, train 0.3125
+log samplesize 5.4, trial 12, opt, test 0.0938
+log samplesize 5.4, trial 13, unif, gen features 0.4062
+log samplesize 5.4, trial 13, unif, train 0.3594
+log samplesize 5.4, trial 13, unif, test 0.0781
+log samplesize 5.4, trial 13, opt, gen features 0.7344
+log samplesize 5.4, trial 13, opt, train 0.3438
+log samplesize 5.4, trial 13, opt, test 0.0938
+log samplesize 5.4, trial 14, unif, gen features 0.4844
+log samplesize 5.4, trial 14, unif, train 0.3750
+log samplesize 5.4, trial 14, unif, test 0.0938
+log samplesize 5.4, trial 14, opt, gen features 0.7031
+log samplesize 5.4, trial 14, opt, train 0.3594
+log samplesize 5.4, trial 14, opt, test 0.0938
+log samplesize 5.4, trial 15, unif, gen features 0.4844
+log samplesize 5.4, trial 15, unif, train 0.3594
+log samplesize 5.4, trial 15, unif, test 0.0938
+log samplesize 5.4, trial 15, opt, gen features 0.6719
+log samplesize 5.4, trial 15, opt, train 0.3438
+log samplesize 5.4, trial 15, opt, test 0.0938
+log samplesize 5.4, trial 16, unif, gen features 0.4688
+log samplesize 5.4, trial 16, unif, train 0.3594
+log samplesize 5.4, trial 16, unif, test 0.0938
+log samplesize 5.4, trial 16, opt, gen features 0.7500
+log samplesize 5.4, trial 16, opt, train 0.3438
+log samplesize 5.4, trial 16, opt, test 0.0938
+log samplesize 5.4, trial 17, unif, gen features 0.4219
+log samplesize 5.4, trial 17, unif, train 0.3906
+log samplesize 5.4, trial 17, unif, test 0.0938
+log samplesize 5.4, trial 17, opt, gen features 0.7344
+log samplesize 5.4, trial 17, opt, train 0.3594
+log samplesize 5.4, trial 17, opt, test 0.0938
+log samplesize 5.4, trial 18, unif, gen features 0.4531
+log samplesize 5.4, trial 18, unif, train 0.3750
+log samplesize 5.4, trial 18, unif, test 0.0938
+log samplesize 5.4, trial 18, opt, gen features 0.7188
+log samplesize 5.4, trial 18, opt, train 0.3438
+log samplesize 5.4, trial 18, opt, test 0.0781
+log samplesize 5.4, trial 19, unif, gen features 0.4844
+log samplesize 5.4, trial 19, unif, train 0.3281
+log samplesize 5.4, trial 19, unif, test 0.0938
+log samplesize 5.4, trial 19, opt, gen features 0.7188
+log samplesize 5.4, trial 19, opt, train 0.3750
+log samplesize 5.4, trial 19, opt, test 0.5469
+log samplesize 5.6, trial 0, unif, gen features 0.6094
+log samplesize 5.6, trial 0, unif, train 0.4375
+log samplesize 5.6, trial 0, unif, test 0.0781
+log samplesize 5.6, trial 0, opt, gen features 1.0625
+log samplesize 5.6, trial 0, opt, train 0.4062
+log samplesize 5.6, trial 0, opt, test 0.0938
+log samplesize 5.6, trial 1, unif, gen features 0.6562
+log samplesize 5.6, trial 1, unif, train 0.3906
+log samplesize 5.6, trial 1, unif, test 0.0625
+log samplesize 5.6, trial 1, opt, gen features 1.0312
+log samplesize 5.6, trial 1, opt, train 0.3906
+log samplesize 5.6, trial 1, opt, test 0.1250
+log samplesize 5.6, trial 2, unif, gen features 0.6250
+log samplesize 5.6, trial 2, unif, train 0.4219
+log samplesize 5.6, trial 2, unif, test 0.0625
+log samplesize 5.6, trial 2, opt, gen features 1.0625
+log samplesize 5.6, trial 2, opt, train 0.3906
+log samplesize 5.6, trial 2, opt, test 0.0781
+log samplesize 5.6, trial 3, unif, gen features 0.6250
+log samplesize 5.6, trial 3, unif, train 0.4531
+log samplesize 5.6, trial 3, unif, test 0.0781
+log samplesize 5.6, trial 3, opt, gen features 1.0156
+log samplesize 5.6, trial 3, opt, train 0.3906
+log samplesize 5.6, trial 3, opt, test 0.1094
+log samplesize 5.6, trial 4, unif, gen features 0.6719
+log samplesize 5.6, trial 4, unif, train 0.4062
+log samplesize 5.6, trial 4, unif, test 0.0625
+log samplesize 5.6, trial 4, opt, gen features 1.0625
+log samplesize 5.6, trial 4, opt, train 0.4062
+log samplesize 5.6, trial 4, opt, test 0.0938
+log samplesize 5.6, trial 5, unif, gen features 0.6562
+log samplesize 5.6, trial 5, unif, train 0.4219
+log samplesize 5.6, trial 5, unif, test 0.1094
+log samplesize 5.6, trial 5, opt, gen features 1.0156
+log samplesize 5.6, trial 5, opt, train 0.3750
+log samplesize 5.6, trial 5, opt, test 0.0781
+log samplesize 5.6, trial 6, unif, gen features 0.6875
+log samplesize 5.6, trial 6, unif, train 0.3750
+log samplesize 5.6, trial 6, unif, test 0.0938
+log samplesize 5.6, trial 6, opt, gen features 1.0000
+log samplesize 5.6, trial 6, opt, train 0.4062
+log samplesize 5.6, trial 6, opt, test 0.0781
+log samplesize 5.6, trial 7, unif, gen features 0.6719
+log samplesize 5.6, trial 7, unif, train 0.4531
+log samplesize 5.6, trial 7, unif, test 0.0938
+log samplesize 5.6, trial 7, opt, gen features 1.0000
+log samplesize 5.6, trial 7, opt, train 0.4062
+log samplesize 5.6, trial 7, opt, test 0.0625
+log samplesize 5.6, trial 8, unif, gen features 0.6875
+log samplesize 5.6, trial 8, unif, train 0.4062
+log samplesize 5.6, trial 8, unif, test 0.0781
+log samplesize 5.6, trial 8, opt, gen features 1.0156
+log samplesize 5.6, trial 8, opt, train 0.3906
+log samplesize 5.6, trial 8, opt, test 0.0781
+log samplesize 5.6, trial 9, unif, gen features 0.6250
+log samplesize 5.6, trial 9, unif, train 0.4062
+log samplesize 5.6, trial 9, unif, test 0.1094
+log samplesize 5.6, trial 9, opt, gen features 0.9844
+log samplesize 5.6, trial 9, opt, train 0.3750
+log samplesize 5.6, trial 9, opt, test 0.0938
+log samplesize 5.6, trial 10, unif, gen features 0.6562
+log samplesize 5.6, trial 10, unif, train 0.4062
+log samplesize 5.6, trial 10, unif, test 0.0781
+log samplesize 5.6, trial 10, opt, gen features 1.0156
+log samplesize 5.6, trial 10, opt, train 0.3906
+log samplesize 5.6, trial 10, opt, test 0.0625
+log samplesize 5.6, trial 11, unif, gen features 0.6719
+log samplesize 5.6, trial 11, unif, train 0.4375
+log samplesize 5.6, trial 11, unif, test 0.1094
+log samplesize 5.6, trial 11, opt, gen features 1.0625
+log samplesize 5.6, trial 11, opt, train 0.3906
+log samplesize 5.6, trial 11, opt, test 0.0938
+log samplesize 5.6, trial 12, unif, gen features 0.5781
+log samplesize 5.6, trial 12, unif, train 0.4375
+log samplesize 5.6, trial 12, unif, test 0.0781
+log samplesize 5.6, trial 12, opt, gen features 1.0156
+log samplesize 5.6, trial 12, opt, train 0.3906
+log samplesize 5.6, trial 12, opt, test 0.0781
+log samplesize 5.6, trial 13, unif, gen features 0.6719
+log samplesize 5.6, trial 13, unif, train 0.4062
+log samplesize 5.6, trial 13, unif, test 0.0938
+log samplesize 5.6, trial 13, opt, gen features 0.9531
+log samplesize 5.6, trial 13, opt, train 0.4219
+log samplesize 5.6, trial 13, opt, test 0.0781
+log samplesize 5.6, trial 14, unif, gen features 0.6406
+log samplesize 5.6, trial 14, unif, train 0.3906
+log samplesize 5.6, trial 14, unif, test 0.0938
+log samplesize 5.6, trial 14, opt, gen features 0.9844
+log samplesize 5.6, trial 14, opt, train 0.4219
+log samplesize 5.6, trial 14, opt, test 0.0938
+log samplesize 5.6, trial 15, unif, gen features 0.6719
+log samplesize 5.6, trial 15, unif, train 0.4062
+log samplesize 5.6, trial 15, unif, test 0.0781
+log samplesize 5.6, trial 15, opt, gen features 1.0312
+log samplesize 5.6, trial 15, opt, train 0.3906
+log samplesize 5.6, trial 15, opt, test 0.0938
+log samplesize 5.6, trial 16, unif, gen features 0.6719
+log samplesize 5.6, trial 16, unif, train 0.3750
+log samplesize 5.6, trial 16, unif, test 0.0781
+log samplesize 5.6, trial 16, opt, gen features 1.0312
+log samplesize 5.6, trial 16, opt, train 0.3906
+log samplesize 5.6, trial 16, opt, test 0.0938
+log samplesize 5.6, trial 17, unif, gen features 0.6406
+log samplesize 5.6, trial 17, unif, train 0.4062
+log samplesize 5.6, trial 17, unif, test 0.0781
+log samplesize 5.6, trial 17, opt, gen features 1.0000
+log samplesize 5.6, trial 17, opt, train 0.3906
+log samplesize 5.6, trial 17, opt, test 0.1094
+log samplesize 5.6, trial 18, unif, gen features 0.6250
+log samplesize 5.6, trial 18, unif, train 0.3906
+log samplesize 5.6, trial 18, unif, test 0.0938
+log samplesize 5.6, trial 18, opt, gen features 1.0156
+log samplesize 5.6, trial 18, opt, train 0.3906
+log samplesize 5.6, trial 18, opt, test 0.0938
+log samplesize 5.6, trial 19, unif, gen features 0.6875
+log samplesize 5.6, trial 19, unif, train 0.3906
+log samplesize 5.6, trial 19, unif, test 0.0781
+log samplesize 5.6, trial 19, opt, gen features 1.0312
+log samplesize 5.6, trial 19, opt, train 0.3750
+log samplesize 5.6, trial 19, opt, test 0.5625
+log samplesize 5.8, trial 0, unif, gen features 0.9062
+log samplesize 5.8, trial 0, unif, train 0.4531
+log samplesize 5.8, trial 0, unif, test 0.1094
+log samplesize 5.8, trial 0, opt, gen features 1.3906
+log samplesize 5.8, trial 0, opt, train 0.4375
+log samplesize 5.8, trial 0, opt, test 0.1094
+log samplesize 5.8, trial 1, unif, gen features 0.9688
+log samplesize 5.8, trial 1, unif, train 0.4688
+log samplesize 5.8, trial 1, unif, test 0.0938
+log samplesize 5.8, trial 1, opt, gen features 1.3750
+log samplesize 5.8, trial 1, opt, train 0.4219
+log samplesize 5.8, trial 1, opt, test 0.0781
+log samplesize 5.8, trial 2, unif, gen features 0.9844
+log samplesize 5.8, trial 2, unif, train 0.4375
+log samplesize 5.8, trial 2, unif, test 0.1094
+log samplesize 5.8, trial 2, opt, gen features 1.3906
+log samplesize 5.8, trial 2, opt, train 0.4219
+log samplesize 5.8, trial 2, opt, test 0.1094
+log samplesize 5.8, trial 3, unif, gen features 1.0000
+log samplesize 5.8, trial 3, unif, train 0.4219
+log samplesize 5.8, trial 3, unif, test 0.0781
+log samplesize 5.8, trial 3, opt, gen features 1.4062
+log samplesize 5.8, trial 3, opt, train 0.4375
+log samplesize 5.8, trial 3, opt, test 0.0781
+log samplesize 5.8, trial 4, unif, gen features 1.0156
+log samplesize 5.8, trial 4, unif, train 0.4688
+log samplesize 5.8, trial 4, unif, test 0.1094
+log samplesize 5.8, trial 4, opt, gen features 1.4375
+log samplesize 5.8, trial 4, opt, train 0.4375
+log samplesize 5.8, trial 4, opt, test 0.1094
+log samplesize 5.8, trial 5, unif, gen features 1.0000
+log samplesize 5.8, trial 5, unif, train 0.4688
+log samplesize 5.8, trial 5, unif, test 0.0625
+log samplesize 5.8, trial 5, opt, gen features 1.4062
+log samplesize 5.8, trial 5, opt, train 0.4375
+log samplesize 5.8, trial 5, opt, test 0.0938
+log samplesize 5.8, trial 6, unif, gen features 0.9688
+log samplesize 5.8, trial 6, unif, train 0.4375
+log samplesize 5.8, trial 6, unif, test 0.0938
+log samplesize 5.8, trial 6, opt, gen features 1.4219
+log samplesize 5.8, trial 6, opt, train 0.3906
+log samplesize 5.8, trial 6, opt, test 0.0781
+log samplesize 5.8, trial 7, unif, gen features 0.9688
+log samplesize 5.8, trial 7, unif, train 0.4688
+log samplesize 5.8, trial 7, unif, test 0.0938
+log samplesize 5.8, trial 7, opt, gen features 1.4219
+log samplesize 5.8, trial 7, opt, train 0.4062
+log samplesize 5.8, trial 7, opt, test 0.0781
+log samplesize 5.8, trial 8, unif, gen features 1.0156
+log samplesize 5.8, trial 8, unif, train 0.4688
+log samplesize 5.8, trial 8, unif, test 0.0781
+log samplesize 5.8, trial 8, opt, gen features 1.4531
+log samplesize 5.8, trial 8, opt, train 0.4375
+log samplesize 5.8, trial 8, opt, test 0.1094
+log samplesize 5.8, trial 9, unif, gen features 1.0312
+log samplesize 5.8, trial 9, unif, train 0.4688
+log samplesize 5.8, trial 9, unif, test 0.0938
+log samplesize 5.8, trial 9, opt, gen features 1.3750
+log samplesize 5.8, trial 9, opt, train 0.4531
+log samplesize 5.8, trial 9, opt, test 0.0781
+log samplesize 5.8, trial 10, unif, gen features 1.0000
+log samplesize 5.8, trial 10, unif, train 0.4688
+log samplesize 5.8, trial 10, unif, test 0.1094
+log samplesize 5.8, trial 10, opt, gen features 1.4062
+log samplesize 5.8, trial 10, opt, train 0.4375
+log samplesize 5.8, trial 10, opt, test 0.0781
+log samplesize 5.8, trial 11, unif, gen features 1.0156
+log samplesize 5.8, trial 11, unif, train 0.4531
+log samplesize 5.8, trial 11, unif, test 0.0625
+log samplesize 5.8, trial 11, opt, gen features 1.4062
+log samplesize 5.8, trial 11, opt, train 0.4375
+log samplesize 5.8, trial 11, opt, test 0.0781
+log samplesize 5.8, trial 12, unif, gen features 0.9531
+log samplesize 5.8, trial 12, unif, train 0.4219
+log samplesize 5.8, trial 12, unif, test 0.0938
+log samplesize 5.8, trial 12, opt, gen features 1.4062
+log samplesize 5.8, trial 12, opt, train 0.4219
+log samplesize 5.8, trial 12, opt, test 0.0938
+log samplesize 5.8, trial 13, unif, gen features 1.0469
+log samplesize 5.8, trial 13, unif, train 0.4375
+log samplesize 5.8, trial 13, unif, test 0.0938
+log samplesize 5.8, trial 13, opt, gen features 1.4219
+log samplesize 5.8, trial 13, opt, train 0.4219
+log samplesize 5.8, trial 13, opt, test 0.1094
+log samplesize 5.8, trial 14, unif, gen features 0.9219
+log samplesize 5.8, trial 14, unif, train 0.4531
+log samplesize 5.8, trial 14, unif, test 0.0781
+log samplesize 5.8, trial 14, opt, gen features 1.3906
+log samplesize 5.8, trial 14, opt, train 0.4375
+log samplesize 5.8, trial 14, opt, test 0.1094
+log samplesize 5.8, trial 15, unif, gen features 1.0156
+log samplesize 5.8, trial 15, unif, train 0.4375
+log samplesize 5.8, trial 15, unif, test 0.1094
+log samplesize 5.8, trial 15, opt, gen features 1.3906
+log samplesize 5.8, trial 15, opt, train 0.4219
+log samplesize 5.8, trial 15, opt, test 0.0781
+log samplesize 5.8, trial 16, unif, gen features 1.0156
+log samplesize 5.8, trial 16, unif, train 0.4375
+log samplesize 5.8, trial 16, unif, test 0.1094
+log samplesize 5.8, trial 16, opt, gen features 1.4375
+log samplesize 5.8, trial 16, opt, train 0.4219
+log samplesize 5.8, trial 16, opt, test 0.0781
+log samplesize 5.8, trial 17, unif, gen features 1.0312
+log samplesize 5.8, trial 17, unif, train 0.4531
+log samplesize 5.8, trial 17, unif, test 0.0938
+log samplesize 5.8, trial 17, opt, gen features 1.4531
+log samplesize 5.8, trial 17, opt, train 0.4219
+log samplesize 5.8, trial 17, opt, test 0.0938
+log samplesize 5.8, trial 18, unif, gen features 1.0000
+log samplesize 5.8, trial 18, unif, train 0.4844
+log samplesize 5.8, trial 18, unif, test 0.0938
+log samplesize 5.8, trial 18, opt, gen features 1.4062
+log samplesize 5.8, trial 18, opt, train 0.4062
+log samplesize 5.8, trial 18, opt, test 0.1094
+log samplesize 5.8, trial 19, unif, gen features 1.0000
+log samplesize 5.8, trial 19, unif, train 0.4531
+log samplesize 5.8, trial 19, unif, test 0.0938
+log samplesize 5.8, trial 19, opt, gen features 1.4062
+log samplesize 5.8, trial 19, opt, train 0.4219
+log samplesize 5.8, trial 19, opt, test 0.0938

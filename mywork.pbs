@@ -1,0 +1,29 @@
+#!/bin/sh
+
+####  PBS preamble
+
+#PBS -N RffRateCompare
+#PBS -M syitong@umich.edu
+#PBS -m abe
+
+# Change the number of cores (ppn=1), amount of memory, and walltime:
+#PBS -l procs=1,mem=4gb,walltime=02:00:00
+#PBS -j oe
+#PBS -V
+#PBS -t 1-10
+
+# Change "example_flux" to the name of your Flux allocation:
+#PBS -A tewaria_fluxm
+#PBS -q fluxm
+#PBS -l qos=flux
+
+####  End PBS preamble
+
+#  Show list of CPUs you ran on, if you're running under PBS
+if [ -n "$PBS_NODEFILE" ]; then cat $PBS_NODEFILE; fi
+
+#  Change to the directory you submitted from
+if [ -n "$PBS_O_WORKDIR" ]; then cd $PBS_O_WORKDIR; fi
+
+#  Put your job commands here:
+python LearningRate.py ${PBS_ARRAYID}
