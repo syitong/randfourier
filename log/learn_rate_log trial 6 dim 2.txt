@@ -1,0 +1,490 @@
+load data 11.0549
+shuffle data 0.0428
+unif feature gen 0.0469
+loglambda = -1.0, unif, train 0.0017
+loglambda = -1.0, unif, test 0.7770
+unif feature gen 0.0392
+loglambda = -1.5, unif, train 0.0009
+loglambda = -1.5, unif, test 0.7731
+unif feature gen 0.0386
+loglambda = -2.0, unif, train 0.0009
+loglambda = -2.0, unif, test 0.7724
+unif feature gen 0.0371
+loglambda = -2.5, unif, train 0.0009
+loglambda = -2.5, unif, test 0.7711
+unif feature gen 0.0333
+loglambda = -3.0, unif, train 0.0009
+loglambda = -3.0, unif, test 0.7696
+unif feature gen 0.0376
+loglambda = -3.5, unif, train 0.0008
+loglambda = -3.5, unif, test 0.7709
+unif feature gen 0.0411
+loglambda = -4.0, unif, train 0.0008
+loglambda = -4.0, unif, test 0.7701
+unif feature gen 0.0353
+loglambda = -4.5, unif, train 0.0009
+loglambda = -4.5, unif, test 0.7712
+unif feature gen 0.0319
+loglambda = -5.0, unif, train 0.0009
+loglambda = -5.0, unif, test 0.7710
+unif feature gen 0.0343
+loglambda = -5.5, unif, train 0.0009
+loglambda = -5.5, unif, test 0.7713
+opt feature gen 0.8744
+loglambda = -1.0, opt, train 0.0009
+loglambda = -1.0, opt, test 0.7702
+opt feature gen 1.0726
+loglambda = -1.5, opt, train 0.0009
+loglambda = -1.5, opt, test 0.7707
+opt feature gen 1.0757
+loglambda = -2.0, opt, train 0.0009
+loglambda = -2.0, opt, test 0.7714
+opt feature gen 0.8767
+loglambda = -2.5, opt, train 0.0009
+loglambda = -2.5, opt, test 0.7711
+opt feature gen 0.8710
+loglambda = -3.0, opt, train 0.0009
+loglambda = -3.0, opt, test 0.7711
+opt feature gen 0.8756
+loglambda = -3.5, opt, train 0.0008
+loglambda = -3.5, opt, test 0.7712
+opt feature gen 0.8793
+loglambda = -4.0, opt, train 0.0008
+loglambda = -4.0, opt, test 0.7708
+opt feature gen 1.0746
+loglambda = -4.5, opt, train 0.0008
+loglambda = -4.5, opt, test 0.7711
+opt feature gen 0.8766
+loglambda = -5.0, opt, train 0.0009
+loglambda = -5.0, opt, test 0.7704
+opt feature gen 1.0782
+loglambda = -5.5, opt, train 0.0008
+loglambda = -5.5, opt, test 0.7718
+shuffle data 0.0937
+unif feature gen 0.0492
+loglambda = -1.0, unif, train 0.0010
+loglambda = -1.0, unif, test 0.7714
+unif feature gen 0.0579
+loglambda = -1.5, unif, train 0.0010
+loglambda = -1.5, unif, test 0.7770
+unif feature gen 0.0499
+loglambda = -2.0, unif, train 0.0010
+loglambda = -2.0, unif, test 0.7757
+unif feature gen 0.0529
+loglambda = -2.5, unif, train 0.0010
+loglambda = -2.5, unif, test 0.7713
+unif feature gen 0.0460
+loglambda = -3.0, unif, train 0.0010
+loglambda = -3.0, unif, test 0.7717
+unif feature gen 0.0491
+loglambda = -3.5, unif, train 0.0011
+loglambda = -3.5, unif, test 0.7713
+unif feature gen 0.0429
+loglambda = -4.0, unif, train 0.0011
+loglambda = -4.0, unif, test 0.7697
+unif feature gen 0.0443
+loglambda = -4.5, unif, train 0.0010
+loglambda = -4.5, unif, test 0.7714
+unif feature gen 0.0449
+loglambda = -5.0, unif, train 0.0009
+loglambda = -5.0, unif, test 0.7719
+unif feature gen 0.0517
+loglambda = -5.5, unif, train 0.0010
+loglambda = -5.5, unif, test 0.7727
+opt feature gen 1.2382
+loglambda = -1.0, opt, train 0.0010
+loglambda = -1.0, opt, test 0.7702
+opt feature gen 1.2192
+loglambda = -1.5, opt, train 0.0010
+loglambda = -1.5, opt, test 0.7723
+opt feature gen 1.2343
+loglambda = -2.0, opt, train 0.0010
+loglambda = -2.0, opt, test 0.7727
+opt feature gen 1.2082
+loglambda = -2.5, opt, train 0.0010
+loglambda = -2.5, opt, test 0.7718
+opt feature gen 1.2344
+loglambda = -3.0, opt, train 0.0010
+loglambda = -3.0, opt, test 0.7727
+opt feature gen 1.2295
+loglambda = -3.5, opt, train 0.0011
+loglambda = -3.5, opt, test 0.7726
+opt feature gen 1.2325
+loglambda = -4.0, opt, train 0.0011
+loglambda = -4.0, opt, test 0.7727
+opt feature gen 1.2225
+loglambda = -4.5, opt, train 0.0010
+loglambda = -4.5, opt, test 0.7712
+opt feature gen 1.2390
+loglambda = -5.0, opt, train 0.0010
+loglambda = -5.0, opt, test 0.7709
+opt feature gen 1.2341
+loglambda = -5.5, opt, train 0.0009
+loglambda = -5.5, opt, test 0.7710
+shuffle data 0.3182
+unif feature gen 0.0660
+loglambda = -1.0, unif, train 0.0014
+loglambda = -1.0, unif, test 0.7739
+unif feature gen 0.0775
+loglambda = -1.5, unif, train 0.0013
+loglambda = -1.5, unif, test 0.7728
+unif feature gen 0.0755
+loglambda = -2.0, unif, train 0.0016
+loglambda = -2.0, unif, test 0.7725
+unif feature gen 0.0680
+loglambda = -2.5, unif, train 0.0015
+loglambda = -2.5, unif, test 0.7722
+unif feature gen 0.0588
+loglambda = -3.0, unif, train 0.0017
+loglambda = -3.0, unif, test 0.7725
+unif feature gen 0.0596
+loglambda = -3.5, unif, train 0.0021
+loglambda = -3.5, unif, test 0.7766
+unif feature gen 0.0556
+loglambda = -4.0, unif, train 0.0020
+loglambda = -4.0, unif, test 0.7717
+unif feature gen 0.0551
+loglambda = -4.5, unif, train 0.0015
+loglambda = -4.5, unif, test 0.7709
+unif feature gen 0.0549
+loglambda = -5.0, unif, train 0.0015
+loglambda = -5.0, unif, test 0.7716
+unif feature gen 0.0602
+loglambda = -5.5, unif, train 0.0015
+loglambda = -5.5, unif, test 0.7707
+opt feature gen 4.2036
+loglambda = -1.0, opt, train 0.0014
+loglambda = -1.0, opt, test 0.7699
+opt feature gen 4.1297
+loglambda = -1.5, opt, train 0.0023
+loglambda = -1.5, opt, test 0.7727
+opt feature gen 4.0572
+loglambda = -2.0, opt, train 0.0017
+loglambda = -2.0, opt, test 0.7730
+opt feature gen 4.1069
+loglambda = -2.5, opt, train 0.0016
+loglambda = -2.5, opt, test 0.7736
+opt feature gen 4.1686
+loglambda = -3.0, opt, train 0.0014
+loglambda = -3.0, opt, test 0.7717
+opt feature gen 3.9402
+loglambda = -3.5, opt, train 0.0017
+loglambda = -3.5, opt, test 0.7704
+opt feature gen 3.9060
+loglambda = -4.0, opt, train 0.0021
+loglambda = -4.0, opt, test 0.7714
+opt feature gen 4.1779
+loglambda = -4.5, opt, train 0.0018
+loglambda = -4.5, opt, test 0.7725
+opt feature gen 4.1707
+loglambda = -5.0, opt, train 0.0018
+loglambda = -5.0, opt, test 0.7721
+opt feature gen 4.1971
+loglambda = -5.5, opt, train 0.0016
+loglambda = -5.5, opt, test 0.7722
+shuffle data 0.3141
+unif feature gen 0.0946
+loglambda = -1.0, unif, train 0.0049
+loglambda = -1.0, unif, test 0.7776
+unif feature gen 0.0903
+loglambda = -1.5, unif, train 0.0043
+loglambda = -1.5, unif, test 0.7811
+unif feature gen 0.0863
+loglambda = -2.0, unif, train 0.0034
+loglambda = -2.0, unif, test 0.7728
+unif feature gen 0.0742
+loglambda = -2.5, unif, train 0.0042
+loglambda = -2.5, unif, test 0.7729
+unif feature gen 0.0832
+loglambda = -3.0, unif, train 0.0032
+loglambda = -3.0, unif, test 0.7727
+unif feature gen 0.0763
+loglambda = -3.5, unif, train 0.0045
+loglambda = -3.5, unif, test 0.7734
+unif feature gen 0.0940
+loglambda = -4.0, unif, train 0.0057
+loglambda = -4.0, unif, test 0.7727
+unif feature gen 0.0778
+loglambda = -4.5, unif, train 0.0062
+loglambda = -4.5, unif, test 0.7731
+unif feature gen 0.0862
+loglambda = -5.0, unif, train 0.0067
+loglambda = -5.0, unif, test 0.7726
+unif feature gen 0.0782
+loglambda = -5.5, unif, train 0.0069
+loglambda = -5.5, unif, test 0.7739
+opt feature gen 10.6253
+loglambda = -1.0, opt, train 0.0030
+loglambda = -1.0, opt, test 0.7716
+opt feature gen 10.6299
+loglambda = -1.5, opt, train 0.0048
+loglambda = -1.5, opt, test 0.7744
+opt feature gen 10.6214
+loglambda = -2.0, opt, train 0.0030
+loglambda = -2.0, opt, test 0.7737
+opt feature gen 10.4359
+loglambda = -2.5, opt, train 0.0032
+loglambda = -2.5, opt, test 0.7731
+opt feature gen 10.7375
+loglambda = -3.0, opt, train 0.0030
+loglambda = -3.0, opt, test 0.7732
+opt feature gen 10.3937
+loglambda = -3.5, opt, train 0.0048
+loglambda = -3.5, opt, test 0.7734
+opt feature gen 10.6514
+loglambda = -4.0, opt, train 0.0048
+loglambda = -4.0, opt, test 0.7739
+opt feature gen 10.3580
+loglambda = -4.5, opt, train 0.0060
+loglambda = -4.5, opt, test 0.7742
+opt feature gen 10.6335
+loglambda = -5.0, opt, train 0.0064
+loglambda = -5.0, opt, test 0.7742
+opt feature gen 10.5108
+loglambda = -5.5, opt, train 0.0054
+loglambda = -5.5, opt, test 0.7725
+shuffle data 0.3184
+unif feature gen 0.1083
+loglambda = -1.0, unif, train 0.0103
+loglambda = -1.0, unif, test 0.7748
+unif feature gen 0.0903
+loglambda = -1.5, unif, train 0.0103
+loglambda = -1.5, unif, test 0.7732
+unif feature gen 0.0947
+loglambda = -2.0, unif, train 0.0055
+loglambda = -2.0, unif, test 0.7740
+unif feature gen 0.0925
+loglambda = -2.5, unif, train 0.0111
+loglambda = -2.5, unif, test 0.7729
+unif feature gen 0.0966
+loglambda = -3.0, unif, train 0.0140
+loglambda = -3.0, unif, test 0.7725
+unif feature gen 0.0896
+loglambda = -3.5, unif, train 0.0106
+loglambda = -3.5, unif, test 0.7730
+unif feature gen 0.0874
+loglambda = -4.0, unif, train 0.0152
+loglambda = -4.0, unif, test 0.7734
+unif feature gen 0.0913
+loglambda = -4.5, unif, train 0.0171
+loglambda = -4.5, unif, test 0.7728
+unif feature gen 0.0936
+loglambda = -5.0, unif, train 0.0308
+loglambda = -5.0, unif, test 0.7719
+unif feature gen 0.0963
+loglambda = -5.5, unif, train 0.0323
+loglambda = -5.5, unif, test 0.7746
+opt feature gen 11.1231
+loglambda = -1.0, opt, train 0.0053
+loglambda = -1.0, opt, test 0.7723
+opt feature gen 10.4525
+loglambda = -1.5, opt, train 0.0146
+loglambda = -1.5, opt, test 0.7726
+opt feature gen 10.6524
+loglambda = -2.0, opt, train 0.0072
+loglambda = -2.0, opt, test 0.7727
+opt feature gen 10.6610
+loglambda = -2.5, opt, train 0.0104
+loglambda = -2.5, opt, test 0.7740
+opt feature gen 10.7190
+loglambda = -3.0, opt, train 0.0097
+loglambda = -3.0, opt, test 0.7718
+opt feature gen 10.4543
+loglambda = -3.5, opt, train 0.0086
+loglambda = -3.5, opt, test 0.7723
+opt feature gen 10.5025
+loglambda = -4.0, opt, train 0.0169
+loglambda = -4.0, opt, test 0.7725
+opt feature gen 10.7708
+loglambda = -4.5, opt, train 0.0123
+loglambda = -4.5, opt, test 0.7729
+opt feature gen 10.5981
+loglambda = -5.0, opt, train 0.0237
+loglambda = -5.0, opt, test 0.7743
+opt feature gen 10.4444
+loglambda = -5.5, opt, train 0.0324
+loglambda = -5.5, opt, test 0.7730
+shuffle data 0.3114
+unif feature gen 0.1183
+loglambda = -1.0, unif, train 0.0260
+loglambda = -1.0, unif, test 0.7717
+unif feature gen 0.1212
+loglambda = -1.5, unif, train 0.0198
+loglambda = -1.5, unif, test 0.7739
+unif feature gen 0.1276
+loglambda = -2.0, unif, train 0.0282
+loglambda = -2.0, unif, test 0.7750
+unif feature gen 0.1092
+loglambda = -2.5, unif, train 0.0372
+loglambda = -2.5, unif, test 0.7737
+unif feature gen 0.1186
+loglambda = -3.0, unif, train 0.0421
+loglambda = -3.0, unif, test 0.7741
+unif feature gen 0.1182
+loglambda = -3.5, unif, train 0.0477
+loglambda = -3.5, unif, test 0.7734
+unif feature gen 0.1184
+loglambda = -4.0, unif, train 0.0544
+loglambda = -4.0, unif, test 0.7747
+unif feature gen 0.1243
+loglambda = -4.5, unif, train 0.0685
+loglambda = -4.5, unif, test 0.7741
+unif feature gen 0.1107
+loglambda = -5.0, unif, train 0.1404
+loglambda = -5.0, unif, test 0.7738
+unif feature gen 0.1103
+loglambda = -5.5, unif, train 0.1037
+loglambda = -5.5, unif, test 0.7732
+opt feature gen 11.7706
+loglambda = -1.0, opt, train 0.0227
+loglambda = -1.0, opt, test 0.7723
+opt feature gen 11.7982
+loglambda = -1.5, opt, train 0.0243
+loglambda = -1.5, opt, test 0.7731
+opt feature gen 11.7631
+loglambda = -2.0, opt, train 0.0239
+loglambda = -2.0, opt, test 0.7744
+opt feature gen 11.8101
+loglambda = -2.5, opt, train 0.0370
+loglambda = -2.5, opt, test 0.7728
+opt feature gen 11.7087
+loglambda = -3.0, opt, train 0.0492
+loglambda = -3.0, opt, test 0.7739
+opt feature gen 11.8459
+loglambda = -3.5, opt, train 0.0412
+loglambda = -3.5, opt, test 0.7729
+opt feature gen 11.7588
+loglambda = -4.0, opt, train 0.0664
+loglambda = -4.0, opt, test 0.7736
+opt feature gen 12.0135
+loglambda = -4.5, opt, train 0.0610
+loglambda = -4.5, opt, test 0.7746
+opt feature gen 11.9015
+loglambda = -5.0, opt, train 0.0896
+loglambda = -5.0, opt, test 0.7736
+opt feature gen 11.8627
+loglambda = -5.5, opt, train 0.0801
+loglambda = -5.5, opt, test 0.7731
+shuffle data 0.3216
+unif feature gen 0.2285
+loglambda = -1.0, unif, train 0.1211
+loglambda = -1.0, unif, test 0.7737
+unif feature gen 0.2008
+loglambda = -1.5, unif, train 0.1433
+loglambda = -1.5, unif, test 0.7762
+unif feature gen 0.2022
+loglambda = -2.0, unif, train 0.0949
+loglambda = -2.0, unif, test 0.7752
+unif feature gen 0.1874
+loglambda = -2.5, unif, train 0.1148
+loglambda = -2.5, unif, test 0.7730
+unif feature gen 0.1877
+loglambda = -3.0, unif, train 0.2580
+loglambda = -3.0, unif, test 0.7732
+unif feature gen 0.1881
+loglambda = -3.5, unif, train 0.2083
+loglambda = -3.5, unif, test 0.7743
+unif feature gen 0.1898
+loglambda = -4.0, unif, train 0.2572
+loglambda = -4.0, unif, test 0.7740
+unif feature gen 0.1850
+loglambda = -4.5, unif, train 0.2604
+loglambda = -4.5, unif, test 0.7736
+unif feature gen 0.1919
+loglambda = -5.0, unif, train 0.2548
+loglambda = -5.0, unif, test 0.7736
+unif feature gen 0.1853
+loglambda = -5.5, unif, train 0.2470
+loglambda = -5.5, unif, test 0.7735
+opt feature gen 14.0074
+loglambda = -1.0, opt, train 0.0954
+loglambda = -1.0, opt, test 0.7740
+opt feature gen 13.9964
+loglambda = -1.5, opt, train 0.1169
+loglambda = -1.5, opt, test 0.7747
+opt feature gen 14.0907
+loglambda = -2.0, opt, train 0.0934
+loglambda = -2.0, opt, test 0.7741
+opt feature gen 14.1423
+loglambda = -2.5, opt, train 0.1695
+loglambda = -2.5, opt, test 0.7744
+opt feature gen 14.0690
+loglambda = -3.0, opt, train 0.2138
+loglambda = -3.0, opt, test 0.7755
+opt feature gen 14.0860
+loglambda = -3.5, opt, train 0.2331
+loglambda = -3.5, opt, test 0.7755
+opt feature gen 14.0420
+loglambda = -4.0, opt, train 0.4423
+loglambda = -4.0, opt, test 0.7740
+opt feature gen 14.0594
+loglambda = -4.5, opt, train 0.4354
+loglambda = -4.5, opt, test 0.7761
+opt feature gen 14.0384
+loglambda = -5.0, opt, train 0.7349
+loglambda = -5.0, opt, test 0.7745
+opt feature gen 14.2351
+loglambda = -5.5, opt, train 0.8892
+loglambda = -5.5, opt, test 0.7748
+shuffle data 0.3462
+unif feature gen 0.4516
+loglambda = -1.0, unif, train 0.2470
+loglambda = -1.0, unif, test 0.7750
+unif feature gen 0.4352
+loglambda = -1.5, unif, train 0.3347
+loglambda = -1.5, unif, test 0.7756
+unif feature gen 0.5072
+loglambda = -2.0, unif, train 0.3354
+loglambda = -2.0, unif, test 0.7748
+unif feature gen 0.4539
+loglambda = -2.5, unif, train 0.3324
+loglambda = -2.5, unif, test 0.7765
+unif feature gen 0.5217
+loglambda = -3.0, unif, train 0.3220
+loglambda = -3.0, unif, test 0.7758
+unif feature gen 0.4355
+loglambda = -3.5, unif, train 0.3272
+loglambda = -3.5, unif, test 0.7757
+unif feature gen 0.5063
+loglambda = -4.0, unif, train 0.3211
+loglambda = -4.0, unif, test 0.7746
+unif feature gen 0.4745
+loglambda = -4.5, unif, train 0.3201
+loglambda = -4.5, unif, test 0.7766
+unif feature gen 0.5174
+loglambda = -5.0, unif, train 0.3134
+loglambda = -5.0, unif, test 0.7769
+unif feature gen 0.4503
+loglambda = -5.5, unif, train 0.3139
+loglambda = -5.5, unif, test 0.7755
+opt feature gen 16.6490
+loglambda = -1.0, opt, train 0.3361
+loglambda = -1.0, opt, test 0.7753
+opt feature gen 16.2662
+loglambda = -1.5, opt, train 0.4203
+loglambda = -1.5, opt, test 0.7772
+opt feature gen 16.7044
+loglambda = -2.0, opt, train 0.4174
+loglambda = -2.0, opt, test 0.7772
+opt feature gen 16.3837
+loglambda = -2.5, opt, train 0.3284
+loglambda = -2.5, opt, test 0.7792
+opt feature gen 16.4884
+loglambda = -3.0, opt, train 0.4939
+loglambda = -3.0, opt, test 0.7756
+opt feature gen 16.4722
+loglambda = -3.5, opt, train 0.6644
+loglambda = -3.5, opt, test 0.7761
+opt feature gen 16.5113
+loglambda = -4.0, opt, train 1.5258
+loglambda = -4.0, opt, test 0.7757
+opt feature gen 16.4406
+loglambda = -4.5, opt, train 1.7666
+loglambda = -4.5, opt, test 0.7746
+opt feature gen 16.5777
+loglambda = -5.0, opt, train 1.9515
+loglambda = -5.0, opt, test 0.7778
+opt feature gen 16.4457
+loglambda = -5.5, opt, train 2.9372
+loglambda = -5.5, opt, test 0.7749
+total 867.75
