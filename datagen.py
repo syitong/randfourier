@@ -51,8 +51,8 @@ def unit_circle(datarange,overlap,samplesize):
 def unit_circle_ideal(gap,label_prob,samplesize):
     X = list()
     Y = list()
-    radupper = 1 - gap/2
-    radlower = 1 + gap/2
+    radupper = 1 + gap/2
+    radlower = 1 - gap/2
     for idx in range(samplesize):
         p = np.random.random()
         if p < 0.5:
@@ -83,8 +83,8 @@ When dim = 2, it is the same with unit_circle_ideal.
 def unit_ball_ideal(dim,gap,label_prob,samplesize):
     X = list()
     Y = list()
-    radupper = 1 - gap/2
-    radlower = 1 + gap/2
+    radupper = 1 + gap/2
+    radlower = 1 - gap/2
     for idx in range(samplesize):
         p = np.random.random()
         if p < 0.5:
