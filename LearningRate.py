@@ -42,10 +42,10 @@ tasklist = list()
 task = 'load data'
 tasklist.append(task)
 timepoint.append(time.process_time())
-X_test = np.loadtxt('data/ideal_Xtest.txt')
-Y_test = np.loadtxt('data/ideal_Ytest.txt')
-X_train_p = np.loadtxt('data/ideal_Xtrain.txt')
-Y_train_p = np.loadtxt('data/ideal_Ytrain.txt')
+X_test = np.loadtxt('data/ideal_Xtest_10.txt')
+Y_test = np.loadtxt('data/ideal_Ytest_10.txt')
+X_train_p = np.loadtxt('data/ideal_Xtrain_10.txt')
+Y_train_p = np.loadtxt('data/ideal_Ytrain_10.txt')
 with open('data/ideal_parameter.csv','r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
@@ -54,8 +54,8 @@ with open('data/ideal_parameter.csv','r') as csvfile:
     datasize = float(row['samplesize'])
     label_prob = float(row['label_prob'])
 
-fileprefix = ' trial {} '.format(argv[1])
-logSMPlist = np.arange(2,6,0.5)
+filesuffix = ' trial {} dim 10'.format(argv[1])
+logSMPlist = np.arange(2,3,0.5)
 unif_best_score = list()
 opt_best_score = list()
 for kdx in range(len(logSMPlist)):
@@ -160,12 +160,12 @@ for idx,value in enumerate(tasklist):
         logcontent = logcontent + line
     else:
         logcontent = logcontent + 'total {:.2f}\n'.format(timepoint[-1] - timepoint[0])
-with open('log/learn_rate_log'+fileprefix+'.txt','w') as logfile:
+with open('log/learn_rate_log'+filesuffix+'.txt','w') as logfile:
     logfile.write(logcontent)
 ### save the best score among different lambdas in one trial
-with open('result/unif_best_score'+fileprefix+'.csv','w',newline='') as csvfile:
+with open('result/unif_best_score'+filesuffix+'.csv','w',newline='') as csvfile:
     datawriter = csv.writer(csvfile)
     datawriter.writerow(unif_best_score)
-with open('result/opt_best_score'+fileprefix+'.csv','w',newline='') as csvfile:
+with open('result/opt_best_score'+filesuffix+'.csv','w',newline='') as csvfile:
     datawriter = csv.writer(csvfile)
     datawriter.writerow(opt_best_score)

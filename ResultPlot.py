@@ -57,31 +57,31 @@ def rate_plot(samplesize,opt_filename,unif_filename,image_filename):
 
 def main():
     ### combine opt_best_score results from different trials
-    #trials = range(1,11,1)
-    #folder = 'result/'
-    #prefix = 'opt_best_score trial '
-    #suffix = ' '
-    #trials_agg(trials,folder,prefix,suffix)
+    trials = range(1,11,1)
+    folder = 'result/'
+    prefix = 'opt_best_score trial '
+    suffix = ' dim 10'
+    trials_agg(trials,folder,prefix,suffix)
 
     ### combine unif_best_score results from different trials
-    #trials = range(1,11,1)
-    #folder = 'result/'
-    #prefix = 'unif_best_score trial '
-    #suffix = ' '
-    #trials_agg(trials,folder,prefix,suffix)
+    trials = range(1,11,1)
+    folder = 'result/'
+    prefix = 'unif_best_score trial '
+    suffix = ' dim 10'
+    trials_agg(trials,folder,prefix,suffix)
 
     ### plot the learning rate
-    #samplesize = np.arange(2,6,0.5)
-    #opt_filename = 'result/opt_best_score trial  .csv'
-    #unif_filename = 'result/unif_best_score trial  .csv'
-    #image_filename = 'image/learningrate.eps'
-    #rate_plot(samplesize,opt_filename,unif_filename,image_filename)
+    samplesize = np.arange(2,6,0.5)
+    opt_filename = 'result/opt_best_score trial  dim 10.csv'
+    unif_filename = 'result/unif_best_score trial  dim 10.csv'
+    image_filename = 'image/learningrate dim 10.eps'
+    rate_plot(samplesize,opt_filename,unif_filename,image_filename)
 
     ### plot sample points
     X = np.loadtxt('data/ideal_Xtest.txt')
     Y = np.loadtxt('data/ideal_Ytest.txt')
     ratio = 50 / len(X)
     dataplot.plot_circle(X,Y,ratio)
-    
+
 if __name__ == '__main__':
     main()
