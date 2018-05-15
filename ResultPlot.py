@@ -56,32 +56,32 @@ def rate_plot(samplesize,opt_filename,unif_filename,image_filename):
     plt.close(fig)
 
 def main():
-    ### combine opt_best_score results from different trials
-    trials = range(1,11,1)
-    folder = 'result/'
-    prefix = 'opt_best_score trial '
-    suffix = ' dim 10'
-    trials_agg(trials,folder,prefix,suffix)
+    # ### combine opt_best_score results from different trials
+    # trials = range(1,11,1)
+    # folder = 'result/'
+    # prefix = 'opt_best_score trial '
+    # suffix = ' dim 2'
+    # trials_agg(trials,folder,prefix,suffix)
 
-    ### combine unif_best_score results from different trials
-    trials = range(1,11,1)
-    folder = 'result/'
-    prefix = 'unif_best_score trial '
-    suffix = ' dim 10'
-    trials_agg(trials,folder,prefix,suffix)
+    # ### combine unif_best_score results from different trials
+    # trials = range(1,11,1)
+    # folder = 'result/'
+    # prefix = 'unif_best_score trial '
+    # suffix = ' dim 2'
+    # trials_agg(trials,folder,prefix,suffix)
 
-    ### plot the learning rate
-    samplesize = np.arange(2,6,0.5)
-    opt_filename = 'result/opt_best_score trial  dim 10.csv'
-    unif_filename = 'result/unif_best_score trial  dim 10.csv'
-    image_filename = 'image/learningrate dim 10.eps'
-    rate_plot(samplesize,opt_filename,unif_filename,image_filename)
+    # ### plot the learning rate
+    # samplesize = np.arange(2,6,0.5)
+    # opt_filename = 'result/opt_best_score trial  dim 2.csv'
+    # unif_filename = 'result/unif_best_score trial  dim 2.csv'
+    # image_filename = 'image/learningrate dim 2.eps'
+    # rate_plot(samplesize,opt_filename,unif_filename,image_filename)
 
     ### plot sample points
-    # X = np.loadtxt('data/ideal_Xtest.txt')
-    # Y = np.loadtxt('data/ideal_Ytest.txt')
-    # ratio = 50 / len(X)
-    # dataplot.plot_circle(X,Y,ratio)
+    X = np.loadtxt('data/ideal_Xtest.txt')
+    Y = np.loadtxt('data/ideal_Ytest.txt')
+    ratio = 50 / len(X)
+    dataplot.plot_circle(X,Y,ratio)
 
 if __name__ == '__main__':
     main()
