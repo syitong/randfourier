@@ -1,10 +1,11 @@
 import csv
 import numpy as np
-import rff
+import datagen
 from sklearn.model_selection import train_test_split
 ### set up data parameters
 def main():
     data_para = {'dim':10,'gap':0.2,'label_prob':0.9,'samplesize':10**6,'testsize':0.2}
+    dim = data_para['dim']
     gap = data_para['gap']
     label_prob = data_para['label_prob']
     samplesize = data_para['samplesize']
@@ -12,7 +13,7 @@ def main():
 
     ### generate and write train and test dataset
 
-    X,Y = rff.unit_circle_ideal(gap,label_prob,samplesize)
+    X,Y = datagen.unit_ball_ideal(dim,gap,label_prob,samplesize)
     X_train_p,X_test,Y_train_p,Y_test = train_test_split(X,Y,
                                                          test_size = test_size,
                                                          random_state=0)
