@@ -39,7 +39,7 @@ import rff
 ### load data and parameters
 timepoint = list()
 tasklist = list()
-dim = 10
+dim = 2
 logSMPlist = np.arange(2,6,0.5)
 task = 'load data'
 tasklist.append(task)
