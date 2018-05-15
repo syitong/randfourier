@@ -42,10 +42,10 @@ tasklist = list()
 task = 'load data'
 tasklist.append(task)
 timepoint.append(time.process_time())
-X_test = np.loadtxt('data/ideal_Xtest_10.txt')
-Y_test = np.loadtxt('data/ideal_Ytest_10.txt')
-X_train_p = np.loadtxt('data/ideal_Xtrain_10.txt')
-Y_train_p = np.loadtxt('data/ideal_Ytrain_10.txt')
+X_test = np.loadtxt('data/ideal_Xtest.txt')
+Y_test = np.loadtxt('data/ideal_Ytest.txt')
+X_train_p = np.loadtxt('data/ideal_Xtrain.txt')
+Y_train_p = np.loadtxt('data/ideal_Ytrain.txt')
 with open('data/ideal_parameter.csv','r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
@@ -54,7 +54,7 @@ with open('data/ideal_parameter.csv','r') as csvfile:
     datasize = float(row['samplesize'])
     label_prob = float(row['label_prob'])
 
-filesuffix = ' trial {} dim 10'.format(argv[1])
+filesuffix = ' trial {} dim 2'.format(argv[1])
 logSMPlist = np.arange(2,6,0.5)
 unif_best_score = list()
 opt_best_score = list()

@@ -78,10 +78,10 @@ def main():
     rate_plot(samplesize,opt_filename,unif_filename,image_filename)
 
     ### plot sample points
-    X = np.loadtxt('data/ideal_Xtest.txt')
-    Y = np.loadtxt('data/ideal_Ytest.txt')
-    ratio = 50 / len(X)
-    dataplot.plot_circle(X,Y,ratio)
+    # X = np.loadtxt('data/ideal_Xtest.txt')
+    # Y = np.loadtxt('data/ideal_Ytest.txt')
+    # ratio = 50 / len(X)
+    # dataplot.plot_circle(X,Y,ratio)
 
 if __name__ == '__main__':
     main()
