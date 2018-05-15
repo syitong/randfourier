@@ -39,14 +39,16 @@ import rff
 ### load data and parameters
 timepoint = list()
 tasklist = list()
+dim = 10
+logSMPlist = np.arange(2,6,0.5)
 task = 'load data'
 tasklist.append(task)
 timepoint.append(time.process_time())
-X_test = np.loadtxt('data/ideal_Xtest.txt')
-Y_test = np.loadtxt('data/ideal_Ytest.txt')
-X_train_p = np.loadtxt('data/ideal_Xtrain.txt')
-Y_train_p = np.loadtxt('data/ideal_Ytrain.txt')
-with open('data/ideal_parameter.csv','r') as csvfile:
+X_test = np.loadtxt('data/ideal_Xtest_'+str(dim)+'.txt')
+Y_test = np.loadtxt('data/ideal_Ytest_'+str(dim)+'.txt')
+X_train_p = np.loadtxt('data/ideal_Xtrain_'+str(dim)+'.txt')
+Y_train_p = np.loadtxt('data/ideal_Ytrain_'+str(dim)+'.txt')
+with open('data/ideal_parameter_'+str(dim)+'.csv','r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         pass
@@ -54,8 +56,7 @@ with open('data/ideal_parameter.csv','r') as csvfile:
     datasize = float(row['samplesize'])
     label_prob = float(row['label_prob'])
 
-filesuffix = ' trial {} dim 2'.format(argv[1])
-logSMPlist = np.arange(2,6,0.5)
+filesuffix = ' trial {0} dim {1}'.format(argv[1],dim)
 unif_best_score = list()
 opt_best_score = list()
 for kdx in range(len(logSMPlist)):
