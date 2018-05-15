@@ -55,7 +55,7 @@ with open('data/ideal_parameter.csv','r') as csvfile:
     label_prob = float(row['label_prob'])
 
 filesuffix = ' trial {} dim 10'.format(argv[1])
-logSMPlist = np.arange(2,3,0.5)
+logSMPlist = np.arange(2,6,0.5)
 unif_best_score = list()
 opt_best_score = list()
 for kdx in range(len(logSMPlist)):

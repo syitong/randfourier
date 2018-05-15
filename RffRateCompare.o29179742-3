@@ -1,0 +1,127 @@
+nyx7015
+load data done
+shuffle data done
+unif feature gen done
+loglambda = -1.0, unif, train done in 4 epochs
+loglambda = -1.0, unif, test done
+unif feature gen done
+loglambda = -1.5, unif, train done in 3 epochs
+loglambda = -1.5, unif, test done
+unif feature gen done
+loglambda = -2.0, unif, train done in 4 epochs
+loglambda = -2.0, unif, test done
+unif feature gen done
+loglambda = -2.5, unif, train done in 4 epochs
+loglambda = -2.5, unif, test done
+unif feature gen done
+loglambda = -3.0, unif, train done in 11 epochs
+loglambda = -3.0, unif, test done
+unif feature gen done
+loglambda = -3.5, unif, train done in 4 epochs
+loglambda = -3.5, unif, test done
+unif feature gen done
+loglambda = -4.0, unif, train done in 4 epochs
+loglambda = -4.0, unif, test done
+unif feature gen done
+loglambda = -4.5, unif, train done in 6 epochs
+loglambda = -4.5, unif, test done
+unif feature gen done
+loglambda = -5.0, unif, train done in 3 epochs
+loglambda = -5.0, unif, test done
+unif feature gen done
+loglambda = -5.5, unif, train done in 3 epochs
+loglambda = -5.5, unif, test done
+opt feature gen done
+loglambda = -1.0, opt, train done in 3 epochs
+loglambda = -1.0, opt, test done
+opt feature gen done
+loglambda = -1.5, opt, train done in 4 epochs
+loglambda = -1.5, opt, test done
+opt feature gen done
+loglambda = -2.0, opt, train done in 10 epochs
+loglambda = -2.0, opt, test done
+opt feature gen done
+loglambda = -2.5, opt, train done in 6 epochs
+loglambda = -2.5, opt, test done
+opt feature gen done
+loglambda = -3.0, opt, train done in 6 epochs
+loglambda = -3.0, opt, test done
+opt feature gen done
+loglambda = -3.5, opt, train done in 2 epochs
+loglambda = -3.5, opt, test done
+opt feature gen done
+loglambda = -4.0, opt, train done in 4 epochs
+loglambda = -4.0, opt, test done
+opt feature gen done
+loglambda = -4.5, opt, train done in 5 epochs
+loglambda = -4.5, opt, test done
+opt feature gen done
+loglambda = -5.0, opt, train done in 2 epochs
+loglambda = -5.0, opt, test done
+opt feature gen done
+loglambda = -5.5, opt, train done in 2 epochs
+loglambda = -5.5, opt, test done
+logsample 2e+00 done
+loglambda = -5.5, opt, test done
+shuffle data done
+unif feature gen done
+loglambda = -1.0, unif, train done in 3 epochs
+loglambda = -1.0, unif, test done
+unif feature gen done
+loglambda = -1.5, unif, train done in 6 epochs
+loglambda = -1.5, unif, test done
+unif feature gen done
+loglambda = -2.0, unif, train done in 12 epochs
+loglambda = -2.0, unif, test done
+unif feature gen done
+loglambda = -2.5, unif, train done in 5 epochs
+loglambda = -2.5, unif, test done
+unif feature gen done
+loglambda = -3.0, unif, train done in 12 epochs
+loglambda = -3.0, unif, test done
+unif feature gen done
+loglambda = -3.5, unif, train done in 11 epochs
+loglambda = -3.5, unif, test done
+unif feature gen done
+loglambda = -4.0, unif, train done in 13 epochs
+loglambda = -4.0, unif, test done
+unif feature gen done
+loglambda = -4.5, unif, train done in 10 epochs
+loglambda = -4.5, unif, test done
+unif feature gen done
+loglambda = -5.0, unif, train done in 8 epochs
+loglambda = -5.0, unif, test done
+unif feature gen done
+loglambda = -5.5, unif, train done in 4 epochs
+loglambda = -5.5, unif, test done
+opt feature gen done
+loglambda = -1.0, opt, train done in 6 epochs
+loglambda = -1.0, opt, test done
+opt feature gen done
+loglambda = -1.5, opt, train done in 8 epochs
+loglambda = -1.5, opt, test done
+opt feature gen done
+loglambda = -2.0, opt, train done in 8 epochs
+loglambda = -2.0, opt, test done
+opt feature gen done
+loglambda = -2.5, opt, train done in 9 epochs
+loglambda = -2.5, opt, test done
+opt feature gen done
+loglambda = -3.0, opt, train done in 3 epochs
+loglambda = -3.0, opt, test done
+opt feature gen done
+loglambda = -3.5, opt, train done in 12 epochs
+loglambda = -3.5, opt, test done
+opt feature gen done
+loglambda = -4.0, opt, train done in 10 epochs
+loglambda = -4.0, opt, test done
+opt feature gen done
+loglambda = -4.5, opt, train done in 4 epochs
+loglambda = -4.5, opt, test done
+opt feature gen done
+loglambda = -5.0, opt, train done in 6 epochs
+loglambda = -5.0, opt, test done
+opt feature gen done
+loglambda = -5.5, opt, train done in 3 epochs
+loglambda = -5.5, opt, test done
+logsample 2e+00 done
