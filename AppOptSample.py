@@ -45,11 +45,11 @@ tasklist = list()
 task = 'load data'
 tasklist.append(task)
 timepoint.append(time.process_time())
-X_test = np.loadtxt('data/ideal_Xtest.txt')
-Y_test = np.loadtxt('data/ideal_Ytest.txt')
-X_train_p = np.loadtxt('data/ideal_Xtrain.txt')
-Y_train_p = np.loadtxt('data/ideal_Ytrain.txt')
-with open('data/ideal_parameter.csv','r') as csvfile:
+X_test = np.loadtxt('data/ideal_Xtest_2.txt')
+Y_test = np.loadtxt('data/ideal_Ytest_2.txt')
+X_train_p = np.loadtxt('data/ideal_Xtrain_2.txt')
+Y_train_p = np.loadtxt('data/ideal_Ytrain_2.txt')
+with open('data/ideal_parameter_2.csv','r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         pass
