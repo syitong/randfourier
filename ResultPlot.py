@@ -48,7 +48,7 @@ def rate_plot(samplesize,opt_filename,unif_filename,image_filename):
     fig = plt.figure()
     plt.errorbar(samplesize,unif_err_rate,unif_std,fmt='g:x',fillstyle='none',label='unif')
     plt.errorbar(samplesize,opt_err_rate,opt_std,fmt='b--s',fillstyle='none',label='opt')
-    plt.yticks(np.arange(0,0.15,0.05))
+    plt.yticks(np.arange(0,0.25,0.05))
     plt.legend(loc=1)
     plt.xlabel('$\log(m)$')
     plt.ylabel('error rate')
@@ -60,28 +60,28 @@ def main():
     trials = range(1,11,1)
     folder = 'result/'
     prefix = 'opt_best_score trial '
-    suffix = ' dim 2'
+    suffix = ' dim 10'
     trials_agg(trials,folder,prefix,suffix)
 
     ### combine unif_best_score results from different trials
     trials = range(1,11,1)
     folder = 'result/'
     prefix = 'unif_best_score trial '
-    suffix = ' dim 2'
+    suffix = ' dim 10'
     trials_agg(trials,folder,prefix,suffix)
 
     ### plot the learning rate
     samplesize = np.arange(2,6,0.5)
-    opt_filename = 'result/opt_best_score trial  dim 2.csv'
-    unif_filename = 'result/unif_best_score trial  dim 2.csv'
-    image_filename = 'image/learningrate dim 2.eps'
+    opt_filename = 'result/opt_best_score trial  dim 10.csv'
+    unif_filename = 'result/unif_best_score trial  dim 10.csv'
+    image_filename = 'image/learningrate dim 10.eps'
     rate_plot(samplesize,opt_filename,unif_filename,image_filename)
 
     ### plot sample points
-    X = np.loadtxt('data/ideal_Xtest_2.txt')
-    Y = np.loadtxt('data/ideal_Ytest_2.txt')
-    ratio = 50 / len(X)
-    dataplot.plot_circle(X,Y,ratio)
+    # X = np.loadtxt('data/ideal_Xtest_2.txt')
+    # Y = np.loadtxt('data/ideal_Ytest_2.txt')
+    # ratio = 50 / len(X)
+    # dataplot.plot_circle(X,Y,ratio)
 
 if __name__ == '__main__':
     main()
