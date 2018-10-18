@@ -105,3 +105,6 @@ venv.bak/
 
 # data files
 data/
+
+# flux job submission files
+.pbs
